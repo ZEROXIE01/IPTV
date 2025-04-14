@@ -635,4 +635,901 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="GAORA_3" tvg-name="GAORA (備用)" tvg-logo="" group-title="日本,体育",GAORA (備用)
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
+#EXTINF:-1 tvg-name="中天新闻4Gtv" group-title="4G频道",中天新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-name="东森新闻4Gtv" group-title="4G频道",东森新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-name="tvbs新闻4Gtv" group-title="4G频道",tvbs新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv072/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻4Gtv" group-title="4G频道",寰宇新闻4Gtv
+http://rjc6.love:50007/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-name="非凡新闻4Gtv" group-title="4G频道",非凡新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 tvg-name="闽镜新闻4Gtv" group-title="4G频道",闽镜新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-name="民视新闻4Gtv" group-title="4G频道",民视新闻4Gtv
+http://rjc6.love:50007/litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-name="中视新闻4Gtv" group-title="4G频道",中视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv074/index.m3u8
+#EXTINF:-1 tvg-name="华视新闻4Gtv" group-title="4G频道",华视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv052/index.m3u8
+#EXTINF:-1 tvg-name="台视新闻4Gtv" group-title="4G频道",台视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv051/index.m3u8
+#EXTINF:-1 tvg-name="民视闽南4Gtv" group-title="4G频道",民视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 tvg-name="民视闽南4Gtv" group-title="4G频道",民视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv155/index.m3u8
+#EXTINF:-1 tvg-name="中视闽南4Gtv" group-title="4G频道",中视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-name="华视闽南4Gtv" group-title="4G频道",华视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-name="台视闽南4Gtv" group-title="4G频道",台视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv066/index.m3u8
+#EXTINF:-1 tvg-name="寰宇闽南4Gtv" group-title="4G频道",寰宇闽南4Gtv
+http://rjc6.love:50007/litv-longturn15/index.m3u8
+#EXTINF:-1 tvg-name="tvbs闽南4Gtv" group-title="4G频道",tvbs闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv073/index.m3u8
+#EXTINF:-1 tvg-name="民视台湾4Gtv" group-title="4G频道",民视台湾4Gtv
+http://rjc6.love:50007/4gtv-4gtv001/index.m3u8
+#EXTINF:-1 tvg-name="民视台湾4Gtv" group-title="4G频道",民视台湾4Gtv
+http://rjc6.love:50007/4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-name="民视第一4Gtv" group-title="4G频道",民视第一4Gtv
+http://rjc6.love:50007/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 tvg-name="民视旅游4Gtv" group-title="4G频道",民视旅游4Gtv
+http://rjc6.love:50007/litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-name="民视影剧4Gtv" group-title="4G频道",民视影剧4Gtv
+http://rjc6.love:50007/litv-ftv09/index.m3u8
+#EXTINF:-1 tvg-name="民视综艺4Gtv" group-title="4G频道",民视综艺4Gtv
+http://rjc6.love:50007/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-name="中视菁采4Gtv" group-title="4G频道",中视菁采4Gtv
+http://rjc6.love:50007/4gtv-4gtv064/index.m3u8
+#EXTINF:-1 tvg-name="中视经典4Gtv" group-title="4G频道",中视经典4Gtv
+http://rjc6.love:50007/4gtv-4gtv080/index.m3u8
+#EXTINF:-1 tvg-name="台视财经4Gtv" group-title="4G频道",台视财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 tvg-name="公视戏剧4Gtv" group-title="4G频道",公视戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv042/index.m3u8
+#EXTINF:-1 tvg-name="闽南戏剧4Gtv" group-title="4G频道",闽南戏剧4Gtv
+http://rjc6.love:50007/litv-longturn22/index.m3u8
+#EXTINF:-1 tvg-name="国际财经4Gtv" group-title="4G频道",国际财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv104/index.m3u8
+#EXTINF:-1 tvg-name="东森财经4Gtv" group-title="4G频道",东森财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv153/index.m3u8
+#EXTINF:-1 tvg-name="tvbs精采4Gtv" group-title="4G频道",tvbs精采4Gtv
+http://rjc6.love:50007/4gtv-4gtv067/index.m3u8
+#EXTINF:-1 tvg-name="tvbs欢乐4Gtv" group-title="4G频道",tvbs欢乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv068/index.m3u8
+#EXTINF:-1 tvg-name="八大精彩4Gtv" group-title="4G频道",八大精彩4Gtv
+http://rjc6.love:50007/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-name="八大综艺4Gtv" group-title="4G频道",八大综艺4Gtv
+http://rjc6.love:50007/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 tvg-name="爱达娱乐4Gtv" group-title="4G频道",爱达娱乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-name="靖洋戏剧4Gtv" group-title="4G频道",靖洋戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv045/index.m3u8
+#EXTINF:-1 tvg-name="靖洋卡通4Gtv" group-title="4G频道",靖洋卡通4Gtv
+http://rjc6.love:50007/4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-name="靖天卡通4Gtv" group-title="4G频道",靖天卡通4Gtv
+http://rjc6.love:50007/4gtv-4gtv044/index.m3u8
+#EXTINF:-1 tvg-name="靖天综合4Gtv" group-title="4G频道",靖天综合4Gtv
+http://rjc6.love:50007/4gtv-4gtv046/index.m3u8
+#EXTINF:-1 tvg-name="靖天日本4Gtv" group-title="4G频道",靖天日本4Gtv
+http://rjc6.love:50007/4gtv-4gtv047/index.m3u8
+#EXTINF:-1 tvg-name="靖天欢乐4Gtv" group-title="4G频道",靖天欢乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv054/index.m3u8
+#EXTINF:-1 tvg-name="靖天映画4Gtv" group-title="4G频道",靖天映画4Gtv
+http://rjc6.love:50007/4gtv-4gtv055/index.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧4Gtv" group-title="4G频道",靖天戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv058/index.m3u8
+#EXTINF:-1 tvg-name="靖天电影4Gtv" group-title="4G频道",靖天电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv061/index.m3u8
+#EXTINF:-1 tvg-name="靖天育乐4Gtv" group-title="4G频道",靖天育乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv062/index.m3u8
+#EXTINF:-1 tvg-name="靖天国际4Gtv" group-title="4G频道",靖天国际4Gtv
+http://rjc6.love:50007/4gtv-4gtv063/index.m3u8
+#EXTINF:-1 tvg-name="靖天资讯4Gtv" group-title="4G频道",靖天资讯4Gtv
+http://rjc6.love:50007/4gtv-4gtv065/index.m3u8
+#EXTINF:-1 tvg-name="龙华卡通4Gtv" group-title="4G频道",龙华卡通4Gtv
+http://rjc6.love:50007/litv-longturn01/index.m3u8
+#EXTINF:-1 tvg-name="龙华日韩4Gtv" group-title="4G频道",龙华日韩4Gtv
+http://rjc6.love:50007/litv-longturn11/index.m3u8
+#EXTINF:-1 tvg-name="龙华偶像4Gtv" group-title="4G频道",龙华偶像4Gtv
+http://rjc6.love:50007/litv-longturn12/index.m3u8
+#EXTINF:-1 tvg-name="龙华电影4Gtv" group-title="4G频道",龙华电影4Gtv
+http://rjc6.love:50007/litv-longturn03/index.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧4Gtv" group-title="4G频道",龙华戏剧4Gtv
+http://rjc6.love:50007/litv-longturn18/index.m3u8
+#EXTINF:-1 tvg-name="龙华经典4Gtv" group-title="4G频道",龙华经典4Gtv
+http://rjc6.love:50007/litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-name="国会频壹4Gtv" group-title="4G频道",国会频壹4Gtv
+http://rjc6.love:50007/4gtv-4gtv084/index.m3u8
+#EXTINF:-1 tvg-name="国会频贰4Gtv" group-title="4G频道",国会频贰4Gtv
+http://rjc6.love:50007/4gtv-4gtv085/index.m3u8
+#EXTINF:-1 tvg-name="好消息壹4Gtv" group-title="4G频道",好消息壹4Gtv
+http://rjc6.love:50007/litv-ftv16/index.m3u8
+#EXTINF:-1 tvg-name="好消息贰4Gtv" group-title="4G频道",好消息贰4Gtv
+http://rjc6.love:50007/litv-ftv17/index.m3u8
+#EXTINF:-1 tvg-name="智林体育4Gtv" group-title="4G频道",智林体育4Gtv
+http://rjc6.love:50007/4gtv-4gtv101/index.m3u8
+#EXTINF:-1 tvg-name="博斯魅力4Gtv" group-title="4G频道",博斯魅力4Gtv
+http://rjc6.love:50007/litv-longturn04/index.m3u8
+#EXTINF:-1 tvg-name="博斯网球4Gtv" group-title="4G频道",博斯网球4Gtv
+http://rjc6.love:50007/litv-longturn09/index.m3u8
+#EXTINF:-1 tvg-name="博高球壹4Gtv" group-title="4G频道",博高球壹4Gtv
+http://rjc6.love:50007/litv-longturn05/index.m3u8
+#EXTINF:-1 tvg-name="博高球贰4Gtv" group-title="4G频道",博高球贰4Gtv
+http://rjc6.love:50007/litv-longturn06/index.m3u8
+#EXTINF:-1 tvg-name="博运动壹4Gtv" group-title="4G频道",博运动壹4Gtv
+http://rjc6.love:50007/litv-longturn07/index.m3u8
+#EXTINF:-1 tvg-name="博运动贰4Gtv" group-title="4G频道",博运动贰4Gtv
+http://rjc6.love:50007/litv-longturn08/index.m3u8
+#EXTINF:-1 tvg-name="博无限壹4Gtv" group-title="4G频道",博无限壹4Gtv
+http://rjc6.love:50007/litv-longturn10/index.m3u8
+#EXTINF:-1 tvg-name="博无限贰4Gtv" group-title="4G频道",博无限贰4Gtv
+http://rjc6.love:50007/litv-longturn13/index.m3u8
+#EXTINF:-1 tvg-name="阿里郎台4Gtv" group-title="4G频道",阿里郎台4Gtv
+http://rjc6.love:50007/4gtv-4gtv079/index.m3u8
+#EXTINF:-1 tvg-name="达文西台4Gtv" group-title="4G频道",达文西台4Gtv
+http://rjc6.love:50007/4gtv-4gtv018/index.m3u8
+#EXTINF:-1 tvg-name="猪哥亮厅4Gtv" group-title="4G频道",猪哥亮厅4Gtv
+http://rjc6.love:50007/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游4Gtv" group-title="4G频道",亚洲旅游4Gtv
+http://rjc6.love:50007/litv-longturn17/index.m3u8
+#EXTINF:-1 tvg-name="美国之音4Gtv" group-title="4G频道",美国之音4Gtv
+http://rjc6.love:50007/litv-ftv03/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻4Gtv" group-title="4G频道",半岛新闻4Gtv
+http://rjc6.love:50007/litv-ftv10/index.m3u8
+#EXTINF:-1 tvg-name="非凡商业4Gtv" group-title="4G频道",非凡商业4Gtv
+http://rjc6.love:50007/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 tvg-name="第壹商业4Gtv" group-title="4G频道",第壹商业4Gtv
+http://rjc6.love:50007/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 tvg-name="爱放动漫4Gtv" group-title="4G频道",爱放动漫4Gtv
+http://rjc6.love:50007/litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-name="古典音乐4Gtv" group-title="4G频道",古典音乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-name="客家电视4Gtv" group-title="4G频道",客家电视4Gtv
+http://rjc6.love:50007/4gtv-4gtv043/index.m3u8
+#EXTINF:-1 tvg-name="华仁纪实4Gtv" group-title="4G频道",华仁纪实4Gtv
+http://rjc6.love:50007/4gtv-4gtv013/index.m3u8
+#EXTINF:-1 tvg-name="时尚运动4Gtv" group-title="4G频道",时尚运动4Gtv
+http://rjc6.love:50007/4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-name="生活英语4Gtv" group-title="4G频道",生活英语4Gtv
+http://rjc6.love:50007/litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="采昌影剧4Gtv" group-title="4G频道",采昌影剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv049/index.m3u8
+#EXTINF:-1 tvg-name="数位电影4Gtv" group-title="4G频道",数位电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv011/index.m3u8
+#EXTINF:-1 tvg-name="Amc电影4Gtv" group-title="4G频道",Amc电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv017/index.m3u8
+#EXTINF:-1 tvg-name="CAT电影4Gtv" group-title="4G频道",CAT电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-name="TRA体育4Gtv" group-title="4G频道",TRA体育4Gtv
+http://rjc6.love:50007/4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-name="SMArt台4Gtv" group-title="4G频道",SMArt台4Gtv
+http://rjc6.love:50007/litv-longturn19/index.m3u8
+#EXTINF:-1 tvg-name="GLO-Bet4Gtv" group-title="4G频道",GLO-Bet4Gtv
+http://rjc6.love:50007/4gtv-4gtv016/index.m3u8
+#EXTINF:-1 tvg-name="TRACEU4Gtv" group-title="4G频道",TRACEU4Gtv
+http://rjc6.love:50007/4gtv-4gtv082/index.m3u8
+#EXTINF:-1 tvg-name="MEZZOl4Gtv" group-title="4G频道",MEZZOl4Gtv
+http://rjc6.love:50007/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Ginx_TV4Gtv" group-title="4G频道",Ginx_TV4Gtv
+http://rjc6.love:50007/4gtv-4gtv053/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
+http://46.203.124.34/supresmart.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台 backup" group-title="香港",翡翠台 backup
+http://46.203.124.34/supresmart.php?id=Jade_xue
+#EXTINF:-1 tvg-name="iNews 新闻台" group-title="香港",iNews 新闻台
+http://46.203.124.34/supresmart.php?id=inews_twn
+#EXTINF:-1 tvg-name="J 2" group-title="香港",J 2
+http://46.203.124.34/supresmart.php?id=j2_twn
+#EXTINF:-1 tvg-name="珍珠台" group-title="香港",珍珠台
+http://46.203.124.34/supresmart.php?id=pearl_twn
+#EXTINF:-1 tvg-name="凤凰香港" group-title="香港",凤凰香港
+http://46.203.124.34/supresmart.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="HOY资讯台" group-title="香港",HOY资讯台
+http://46.203.124.34/supresmart.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="RHK 31" group-title="香港",RHK 31
+http://46.203.124.34/supresmart.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="VIUTV1" group-title="香港",VIUTV1
+http://46.203.124.34/supresmart.php?id=viu1_twn
+#EXTINF:-1 tvg-name="RHK 32" group-title="香港",RHK 32
+http://46.203.124.34/supresmart.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="香港",凤凰卫视
+http://46.203.124.34/supresmart.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="香港",凤凰资讯
+http://46.203.124.34/supresmart.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="Viu6" group-title="香港",Viu6
+http://46.203.124.34/supresmart.php?id=viusix_twn
+#EXTINF:-1 tvg-name="CCTV-1 综合 HD" group-title="中国",CCTV-1 综合 HD
+http://46.203.124.34/supresmart.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV-2 财经" group-title="中国",CCTV-2 财经
+http://46.203.124.34/supresmart.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV-3 综艺 HD" group-title="中国",CCTV-3 综艺 HD
+http://46.203.124.34/supresmart.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" group-title="中国",CCTV-4 中文国际
+http://46.203.124.34/supresmart.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4 新闻台" group-title="中国",CCTV4 新闻台
+http://46.203.124.34/supresmart.php?id=Cctv4
+#EXTINF:-1 tvg-name="CCTV-7 军事农业" group-title="中国",CCTV-7 军事农业
+http://46.203.124.34/supresmart.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV-8 电视剧 HD" group-title="中国",CCTV-8 电视剧 HD
+http://46.203.124.34/supresmart.php?id=cctv8hd
+#EXTINF:-1 tvg-name="CCTV-9 记录 HD" group-title="中国",CCTV-9 记录 HD
+http://46.203.124.34/supresmart.php?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV-10 科教 HD" group-title="中国",CCTV-10 科教 HD
+http://46.203.124.34/supresmart.php?id=cctv10hd
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" group-title="中国",CCTV-11 戏曲
+http://46.203.124.34/supresmart.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" group-title="中国",CCTV-12 社会与法
+http://46.203.124.34/supresmart.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV-13 新闻频道" group-title="中国",CCTV-13 新闻频道
+http://46.203.124.34/supresmart.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV-14 少儿" group-title="中国",CCTV-14 少儿
+http://46.203.124.34/supresmart.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV-6" group-title="中国",CCTV-6
+http://46.203.124.34/supresmart.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV-15 音乐" group-title="中国",CCTV-15 音乐
+http://46.203.124.34/supresmart.php?id=cctv15
+#EXTINF:-1 tvg-name="湖南卫视" group-title="中国",湖南卫视
+http://46.203.124.34/supresmart.php?id=hunan_twn
+#EXTINF:-1 tvg-name="浙江卫视" group-title="中国",浙江卫视
+http://46.203.124.34/supresmart.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="江苏卫视" group-title="中国",江苏卫视
+http://46.203.124.34/supresmart.php?id=jiangsu_twn
+#EXTINF:-1 tvg-name="深圳卫视" group-title="中国",深圳卫视
+http://46.203.124.34/supresmart.php?id=shenzhen
+#EXTINF:-1 tvg-name="福建东南卫视" group-title="中国",福建东南卫视
+http://46.203.124.34/supresmart.php?id=fujian
+#EXTINF:-1 tvg-name="广东南方卫视" group-title="中国",广东南方卫视
+http://46.203.124.34/supresmart.php?id=nanfang_twn
+#EXTINF:-1 tvg-name="广东卫视" group-title="中国",广东卫视
+http://46.203.124.34/supresmart.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-name="北京卫视" group-title="中国",北京卫视
+http://46.203.124.34/supresmart.php?id=beijing
+#EXTINF:-1 tvg-name="珠江台" group-title="中国",珠江台
+http://46.203.124.34/supresmart.php?id=zhujiang
+#EXTINF:-1 tvg-name="广西卫视" group-title="中国",广西卫视
+http://46.203.124.34/supresmart.php?id=guangxi
+#EXTINF:-1 tvg-name="湖北卫视" group-title="中国",湖北卫视
+http://46.203.124.34/supresmart.php?id=hubei
+#EXTINF:-1 tvg-name="四川卫视" group-title="中国",四川卫视
+http://46.203.124.34/supresmart.php?id=sichuan_twn
+#EXTINF:-1 tvg-name="东方卫视" group-title="中国",东方卫视
+http://46.203.124.34/supresmart.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-name="CGTN" group-title="中国",CGTN
+http://46.203.124.34/supresmart.php?id=CGTN
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="中国",凤凰卫视
+http://46.203.124.34/supresmart.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="中国",凤凰资讯
+http://46.203.124.34/supresmart.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="CCTV-5 体育频道" group-title="中国",CCTV-5 体育频道
+http://46.203.124.34/supresmart.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事 HD" group-title="中国",CCTV-5+ 体育赛事 HD
+http://46.203.124.34/supresmart.php?id=cctv5plus
+#EXTINF:-1 tvg-name="Astro Premier League 1" group-title="体育频道",Astro Premier League 1
+http://46.203.124.34/supresmart.php?id=go_assp1
+#EXTINF:-1 tvg-name="Astro EPL 1 backup" group-title="体育频道",Astro EPL 1 backup
+http://46.203.124.34/supresmart.php?id=go_assp1x
+#EXTINF:-1 tvg-name="Astro Premier League 2" group-title="体育频道",Astro Premier League 2
+http://46.203.124.34/supresmart.php?id=go_assp2
+#EXTINF:-1 tvg-name="Astro Grandstand" group-title="体育频道",Astro Grandstand
+http://46.203.124.34/supresmart.php?id=go_assp3
+#EXTINF:-1 tvg-name="Astro Football" group-title="体育频道",Astro Football
+http://46.203.124.34/supresmart.php?id=go_assp4
+#EXTINF:-1 tvg-name="Astro Sports Plus" group-title="体育频道",Astro Sports Plus
+http://46.203.124.34/supresmart.php?id=go_sportsplus
+#EXTINF:-1 tvg-name="Astro Badminton 1" group-title="体育频道",Astro Badminton 1
+http://46.203.124.34/supresmart.php?id=go_badminton1
+#EXTINF:-1 tvg-name="Astro Badminton 2" group-title="体育频道",Astro Badminton 2
+http://46.203.124.34/supresmart.php?id=go_badminton2
+#EXTINF:-1 tvg-name="Astro W-Sports" group-title="体育频道",Astro W-Sports
+http://46.203.124.34/supresmart.php?id=go_assp5
+#EXTINF:-1 tvg-name="Supersports 1" group-title="体育频道",Supersports 1
+http://46.203.124.34/supresmart.php?id=Assp1
+#EXTINF:-1 tvg-name="Supersports 2" group-title="体育频道",Supersports 2
+http://46.203.124.34/supresmart.php?id=Assp2
+#EXTINF:-1 tvg-name="Supersports 3" group-title="体育频道",Supersports 3
+http://46.203.124.34/supresmart.php?id=Assp3
+#EXTINF:-1 tvg-name="Supersports 4" group-title="体育频道",Supersports 4
+http://46.203.124.34/supresmart.php?id=Assp4
+#EXTINF:-1 tvg-name="WWE" group-title="体育频道",WWE
+http://46.203.124.34/supresmart.php?id=Wwe
+#EXTINF:-1 tvg-name="Fight Sports" group-title="体育频道",Fight Sports
+http://46.203.124.34/supresmart.php?id=Fs
+#EXTINF:-1 tvg-name="NBA TV" group-title="体育频道",NBA TV
+http://46.203.124.34/supresmart.php?id=Nba
+#EXTINF:-1 tvg-name="Astro Cricket" group-title="体育频道",Astro Cricket
+http://46.203.124.34/supresmart.php?id=Acricket
+#EXTINF:-1 tvg-name="Astro Golf" group-title="体育频道",Astro Golf
+http://46.203.124.34/supresmart.php?id=Agolf
+#EXTINF:-1 tvg-name="Tnt Sports 1" group-title="体育频道",Tnt Sports 1
+http://46.203.124.34/supresmart.php?id=6fac0aaead
+#EXTINF:-1 tvg-name="TNT Sports 2" group-title="体育频道",TNT Sports 2
+http://46.203.124.34/supresmart.php?id=d9a76a79cc
+#EXTINF:-1 tvg-name="TNT Sports 3" group-title="体育频道",TNT Sports 3
+http://46.203.124.34/supresmart.php?id=5fea4d73db
+#EXTINF:-1 tvg-name="TNT Sports 4" group-title="体育频道",TNT Sports 4
+http://46.203.124.34/supresmart.php?id=tntsport4
+#EXTINF:-1 tvg-name="Sony Ten 1" group-title="体育频道",Sony Ten 1
+http://46.203.124.34/supresmart.php?id=ten1_raj
+#EXTINF:-1 tvg-name="Sony Ten 2" group-title="体育频道",Sony Ten 2
+http://46.203.124.34/supresmart.php?id=ten2_raj
+#EXTINF:-1 tvg-name="Sony Ten 3" group-title="体育频道",Sony Ten 3
+http://46.203.124.34/supresmart.php?id=ten3_raj
+#EXTINF:-1 tvg-name="SPOTV 1 HD" group-title="体育频道",SPOTV 1 HD
+http://46.203.124.34/supresmart.php?id=go_spotv
+#EXTINF:-1 tvg-name="SPO TV 2" group-title="体育频道",SPO TV 2
+http://46.203.124.34/supresmart.php?id=go_spotv2
+#EXTINF:-1 tvg-name="Skysports F1" group-title="体育频道",Skysports F1
+http://46.203.124.34/supresmart.php?id=tiankongf1
+#EXTINF:-1 tvg-name="Skysports Cricket" group-title="体育频道",Skysports Cricket
+http://46.203.124.34/supresmart.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="Skysports EPL" group-title="体育频道",Skysports EPL
+http://46.203.124.34/supresmart.php?id=tiankongepl
+#EXTINF:-1 tvg-name="Skysports Main Event" group-title="体育频道",Skysports Main Event
+http://46.203.124.34/supresmart.php?id=tiankongmain
+#EXTINF:-1 tvg-name="Skysports News" group-title="体育频道",Skysports News
+http://46.203.124.34/supresmart.php?id=tiankongnews
+#EXTINF:-1 tvg-name="Skysports Mix" group-title="体育频道",Skysports Mix
+http://46.203.124.34/supresmart.php?id=tiankongmix
+#EXTINF:-1 tvg-name="CCTV-5 体育频道" group-title="体育频道",CCTV-5 体育频道
+http://46.203.124.34/supresmart.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事 HD" group-title="体育频道",CCTV-5+ 体育赛事 HD
+http://46.203.124.34/supresmart.php?id=cctv5plus
+#EXTINF:-1 tvg-name="爱尔达体育2台" group-title="体育频道",爱尔达体育2台
+http://46.203.124.34/supresmart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3台" group-title="体育频道",爱尔达体育3台
+http://46.203.124.34/supresmart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="Rugby Pass TV" group-title="体育频道",Rugby Pass TV
+http://46.203.124.34/supresmart.php?id=Rugbypasstv
+#EXTINF:-1 tvg-name="RTM Sports HD" group-title="体育频道",RTM Sports HD
+http://46.203.124.34/supresmart.php?id=Rtmsport
+#EXTINF:-1 tvg-name="Arena" group-title="体育频道",Arena
+http://46.203.124.34/supresmart.php?id=Arena
+#EXTINF:-1 tvg-name="Arena 2" group-title="体育频道",Arena 2
+http://46.203.124.34/supresmart.php?id=Arena2
+#EXTINF:-1 tvg-name="BolaArena 1" group-title="体育频道",BolaArena 1
+http://46.203.124.34/supresmart.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="BolaArena 2" group-title="体育频道",BolaArena 2
+http://46.203.124.34/supresmart.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="Astro Beinsports 1" group-title="体育频道",Astro Beinsports 1
+http://46.203.124.34/supresmart.php?id=Astrobein1
+#EXTINF:-1 tvg-name="Astro Beinsports 2" group-title="体育频道",Astro Beinsports 2
+http://46.203.124.34/supresmart.php?id=Astrobein2
+#EXTINF:-1 tvg-name="Astro Beinsports 3" group-title="体育频道",Astro Beinsports 3
+http://46.203.124.34/supresmart.php?id=Astrobein3
+#EXTINF:-1 tvg-name="TVBS News 新闻台" group-title="台湾",TVBS News 新闻台
+http://46.203.124.34/supresmart.php?id=tvbs_n
+#EXTINF:-1 tvg-name="TVBS 欢乐台 （备份）" group-title="台湾",TVBS 欢乐台 （备份）
+http://46.203.124.34/supresmart.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-name="TVBS HD" group-title="台湾",TVBS HD
+http://46.203.124.34/supresmart.php?id=tvbs
+#EXTINF:-1 tvg-name="中天新闻 HD" group-title="台湾",中天新闻 HD
+http://46.203.124.34/supresmart.php?id=ctinews
+#EXTINF:-1 tvg-name="中天娱乐 CTI Entertaiment" group-title="台湾",中天娱乐 CTI Entertaiment
+http://46.203.124.34/supresmart.php?id=ctient
+#EXTINF:-1 tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
+http://46.203.124.34/supresmart.php?id=ctizhonghe
+#EXTINF:-1 tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
+http://46.203.124.34/supresmart.php?id=ctiasia_twn
+#EXTINF:-1 tvg-name="台视 TTV HD" group-title="台湾",台视 TTV HD
+http://46.203.124.34/supresmart.php?id=ttv_taiwan
+#EXTINF:-1 tvg-name="台视新闻台" group-title="台湾",台视新闻台
+http://46.203.124.34/supresmart.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="台视综合台" group-title="台湾",台视综合台
+http://46.203.124.34/supresmart.php?id=ttvzhonghe
+#EXTINF:-1 tvg-name="中视 HD" group-title="台湾",中视 HD
+http://46.203.124.34/supresmart.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="中视新闻台" group-title="台湾",中视新闻台
+http://46.203.124.34/supresmart.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-name="民视 HD" group-title="台湾",民视 HD
+http://46.203.124.34/supresmart.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="民视新闻台 FTV News" group-title="台湾",民视新闻台 FTV News
+http://46.203.124.34/supresmart.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-name="民视台湾台" group-title="台湾",民视台湾台
+http://46.203.124.34/supresmart.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="华视 CTS HD" group-title="台湾",华视 CTS HD
+http://46.203.124.34/supresmart.php?id=ctshd_twn
+#EXTINF:-1 tvg-name="公视 CTV" group-title="台湾",公视 CTV
+http://46.203.124.34/supresmart.php?id=ctv18_twn
+#EXTINF:-1 tvg-name="八大第一 GTV First" group-title="台湾",八大第一 GTV First
+http://46.203.124.34/supresmart.php?id=badafirst
+#EXTINF:-1 tvg-name="八大综合 GTV Metro" group-title="台湾",八大综合 GTV Metro
+http://46.203.124.34/supresmart.php?id=badazhonghe
+#EXTINF:-1 tvg-name="八大戏剧 GTV Drama" group-title="台湾",八大戏剧 GTV Drama
+http://46.203.124.34/supresmart.php?id=badadrama
+#EXTINF:-1 tvg-name="八大娱乐 GTV Entertainment" group-title="台湾",八大娱乐 GTV Entertainment
+http://46.203.124.34/supresmart.php?id=badaentertain
+#EXTINF:-1 tvg-name="HBO_HD" group-title="台湾",HBO_HD
+http://46.203.124.34/supresmart.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO_HITS" group-title="台湾",HBO_HITS
+http://46.203.124.34/supresmart.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="Hollywood Movies" group-title="台湾",Hollywood Movies
+http://46.203.124.34/supresmart.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="三立台湾 Sanli Taiwan" group-title="台湾",三立台湾 Sanli Taiwan
+http://46.203.124.34/supresmart.php?id=sanlitaiwan
+#EXTINF:-1 tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
+http://46.203.124.34/supresmart.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="三立综合 Sanli Metro" group-title="台湾",三立综合 Sanli Metro
+http://46.203.124.34/supresmart.php?id=sanlizhonghe
+#EXTINF:-1 tvg-name="三立都会台" group-title="台湾",三立都会台
+http://46.203.124.34/supresmart.php?id=sanlidouhui
+#EXTINF:-1 tvg-name="东森新闻 ETTV News" group-title="台湾",东森新闻 ETTV News
+http://46.203.124.34/supresmart.php?id=ettvnews
+#EXTINF:-1 tvg-name="CINEMAX" group-title="台湾",CINEMAX
+http://46.203.124.34/supresmart.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="东森综合 ETTV Metro" group-title="台湾",东森综合 ETTV Metro
+http://46.203.124.34/supresmart.php?id=ettvzhonghe
+#EXTINF:-1 tvg-name="东森戏剧 ETTV Drama" group-title="台湾",东森戏剧 ETTV Drama
+http://46.203.124.34/supresmart.php?id=ettvdrama
+#EXTINF:-1 tvg-name="东森超视" group-title="台湾",东森超视
+http://46.203.124.34/supresmart.php?id=ettvsuper
+#EXTINF:-1 tvg-name="东森财经新闻 ETTV Business" group-title="台湾",东森财经新闻 ETTV Business
+http://46.203.124.34/supresmart.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="寰宇财经" group-title="台湾",寰宇财经
+http://46.203.124.34/supresmart.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-name="寰宇新闻台" group-title="台湾",寰宇新闻台
+http://46.203.124.34/supresmart.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="公视2" group-title="台湾",公视2
+http://46.203.124.34/supresmart.php?id=ctv2_twn
+#EXTINF:-1 tvg-name="大爱1台" group-title="台湾",大爱1台
+http://46.203.124.34/supresmart.php?id=daai_twn
+#EXTINF:-1 tvg-name="非凡新闻台" group-title="台湾",非凡新闻台
+http://46.203.124.34/supresmart.php?id=feifannews_twn
+#EXTINF:-1 tvg-name="龙华戏剧 Lunghua Drama" group-title="台湾",龙华戏剧 Lunghua Drama
+http://46.203.124.34/supresmart.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-name="龙华经典台" group-title="台湾",龙华经典台
+http://46.203.124.34/supresmart.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-name="龙华偶像" group-title="台湾",龙华偶像
+http://46.203.124.34/supresmart.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
+http://46.203.124.34/supresmart.php?id=axn_twn
+#EXTINF:-1 tvg-name="靖天国际台" group-title="台湾",靖天国际台
+http://46.203.124.34/supresmart.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-name="年代新闻" group-title="台湾",年代新闻
+http://46.203.124.34/supresmart.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="纬来日本台" group-title="台湾",纬来日本台
+http://46.203.124.34/supresmart.php?id=videolandjapan
+#EXTINF:-1 tvg-name="纬来电影台" group-title="台湾",纬来电影台
+http://46.203.124.34/supresmart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来体育台" group-title="台湾",纬来体育台
+http://46.203.124.34/supresmart.php?id=videolandsport
+#EXTINF:-1 tvg-name="纬来综合台" group-title="台湾",纬来综合台
+http://46.203.124.34/supresmart.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="纬来育乐" group-title="台湾",纬来育乐
+http://46.203.124.34/supresmart.php?id=videolandyule
+#EXTINF:-1 tvg-name="纬来精彩" group-title="台湾",纬来精彩
+http://46.203.124.34/supresmart.php?id=videolandspecial_twn
+#EXTINF:-1 tvg-name="好消息 2" group-title="台湾",好消息 2
+http://46.203.124.34/supresmart.php?id=good2_twn
+#EXTINF:-1 tvg-name="大爱2台" group-title="台湾",大爱2台
+http://46.203.124.34/supresmart.php?id=daai2_twn
+#EXTINF:-1 tvg-name="亚洲美食" group-title="台湾",亚洲美食
+http://46.203.124.34/supresmart.php?id=afc_twn
+#EXTINF:-1 tvg-name="美食星球" group-title="台湾",美食星球
+http://46.203.124.34/supresmart.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" group-title="台湾",亚洲旅游 TLC Asia
+http://46.203.124.34/supresmart.php?id=tlc_twn
+#EXTINF:-1 tvg-name="东森电影 ETTV Movie" group-title="台湾",东森电影 ETTV Movie
+http://46.203.124.34/supresmart.php?id=ettvmovie
+#EXTINF:-1 tvg-name="阿里郎 Arirang" group-title="台湾",阿里郎 Arirang
+http://46.203.124.34/supresmart.php?id=arirang_twn
+#EXTINF:-1 tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
+http://46.203.124.34/supresmart.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="博斯运动 2" group-title="台湾",博斯运动 2
+http://46.203.124.34/supresmart.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
+http://46.203.124.34/supresmart.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="博斯网球 HD" group-title="台湾",博斯网球 HD
+http://46.203.124.34/supresmart.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="东森洋片 ETTV Western" group-title="台湾",东森洋片 ETTV Western
+http://46.203.124.34/supresmart.php?id=ettvwestern
+#EXTINF:-1 tvg-name="龙华洋片 Lunghua Western" group-title="台湾",龙华洋片 Lunghua Western
+http://46.203.124.34/supresmart.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="博斯无限" group-title="台湾",博斯无限
+http://46.203.124.34/supresmart.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="MTV Live" group-title="台湾",MTV Live
+http://46.203.124.34/supresmart.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="龙详时代" group-title="台湾",龙详时代
+http://46.203.124.34/supresmart.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="EYETV 旅游" group-title="台湾",EYETV 旅游
+http://46.203.124.34/supresmart.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="靖天卡通台" group-title="台湾",靖天卡通台
+http://46.203.124.34/supresmart.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="EYETV 戏剧" group-title="台湾",EYETV 戏剧
+http://46.203.124.34/supresmart.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-name="卫视中文台 Star Movies Chinese" group-title="台湾",卫视中文台 Star Movies Chinese
+http://46.203.124.34/supresmart.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="东森幼幼 Yoyo TV" group-title="台湾",东森幼幼 Yoyo TV
+http://46.203.124.34/supresmart.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="卫视电影台" group-title="台湾",卫视电影台
+http://46.203.124.34/supresmart.php?id=weishimovie_twn
+#EXTINF:-1 tvg-name="美亚电影" group-title="台湾",美亚电影
+http://46.203.124.34/supresmart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="爱尔达影剧台" group-title="台湾",爱尔达影剧台
+http://46.203.124.34/supresmart.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="爱尔达综合台" group-title="台湾",爱尔达综合台
+http://46.203.124.34/supresmart.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="星卫电影" group-title="台湾",星卫电影
+http://46.203.124.34/supresmart.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="爱尔达影剧" group-title="台湾",爱尔达影剧
+http://46.203.124.34/supresmart.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="AFC 亚洲旅游台" group-title="台湾",AFC 亚洲旅游台
+http://46.203.124.34/supresmart.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="爱尔达体育2台" group-title="台湾",爱尔达体育2台
+http://46.203.124.34/supresmart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3台" group-title="台湾",爱尔达体育3台
+http://46.203.124.34/supresmart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="HBO_HD" group-title="电影频道",HBO_HD
+http://46.203.124.34/supresmart.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO_HITS" group-title="电影频道",HBO_HITS
+http://46.203.124.34/supresmart.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
+http://46.203.124.34/supresmart.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="CCTV-6" group-title="电影频道",CCTV-6
+http://46.203.124.34/supresmart.php?id=cctv6
+#EXTINF:-1 tvg-name="CINEMAX" group-title="电影频道",CINEMAX
+http://46.203.124.34/supresmart.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="Cinemax" group-title="电影频道",Cinemax
+http://46.203.124.34/supresmart.php?id=Cinemax
+#EXTINF:-1 tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
+http://46.203.124.34/supresmart.php?id=axn_twn
+#EXTINF:-1 tvg-name="大爱2台" group-title="电影频道",大爱2台
+http://46.203.124.34/supresmart.php?id=daai2_twn
+#EXTINF:-1 tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
+http://46.203.124.34/supresmart.php?id=ettvmovie
+#EXTINF:-1 tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
+http://46.203.124.34/supresmart.php?id=ettvwestern
+#EXTINF:-1 tvg-name="龙华洋片 Lunghua Western" group-title="电影频道",龙华洋片 Lunghua Western
+http://46.203.124.34/supresmart.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="Animax" group-title="电影频道",Animax
+http://46.203.124.34/supresmart.php?id=Animax
+#EXTINF:-1 tvg-name="龙详时代" group-title="电影频道",龙详时代
+http://46.203.124.34/supresmart.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
+http://46.203.124.34/supresmart.php?id=moviesnow_raj
+#EXTINF:-1 tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
+http://46.203.124.34/supresmart.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="卫视中文台 Star Movies Chinese" group-title="电影频道",卫视中文台 Star Movies Chinese
+http://46.203.124.34/supresmart.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="HBO Family" group-title="电影频道",HBO Family
+http://46.203.124.34/supresmart.php?id=Hbofamily
+#EXTINF:-1 tvg-name="Hits" group-title="电影频道",Hits
+http://46.203.124.34/supresmart.php?id=Hits
+#EXTINF:-1 tvg-name="Warner TV" group-title="电影频道",Warner TV
+http://46.203.124.34/supresmart.php?id=WarnerTV
+#EXTINF:-1 tvg-name="卫视电影台" group-title="电影频道",卫视电影台
+http://46.203.124.34/supresmart.php?id=weishimovie_twn
+#EXTINF:-1 tvg-name="HBO HD" group-title="电影频道",HBO HD
+http://46.203.124.34/supresmart.php?id=Hbo
+#EXTINF:-1 tvg-name="美亚电影" group-title="电影频道",美亚电影
+http://46.203.124.34/supresmart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="HBO Signature" group-title="电影频道",HBO Signature
+http://46.203.124.34/supresmart.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO Hits" group-title="电影频道",HBO Hits
+http://46.203.124.34/supresmart.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="星卫电影" group-title="电影频道",星卫电影
+http://46.203.124.34/supresmart.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="SCM" group-title="电影频道",SCM
+http://46.203.124.34/supresmart.php?id=Weishimovie
+#EXTINF:-1 tvg-name="Dreamworks" group-title="电影频道",Dreamworks
+http://46.203.124.34/supresmart.php?id=Dreamworks
+#EXTINF:-1 tvg-name="Thrill" group-title="电影频道",Thrill
+http://46.203.124.34/supresmart.php?id=Thrill
+#EXTINF:-1 tvg-name="Hits Movie" group-title="电影频道",Hits Movie
+http://46.203.124.34/supresmart.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="One" group-title="电影频道",One
+http://46.203.124.34/supresmart.php?id=One
+#EXTINF:-1 tvg-name="tvN Movie" group-title="电影频道",tvN Movie
+http://46.203.124.34/supresmart.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="Celestial Classic" group-title="电影频道",Celestial Classic
+http://46.203.124.34/supresmart.php?id=Celestial2
+#EXTINF:-1 tvg-name="Celestial Movies HD" group-title="电影频道",Celestial Movies HD
+http://46.203.124.34/supresmart.php?id=Celestialindo
+#EXTINF:-1 tvg-name="Axn HD" group-title="电影频道",Axn HD
+http://46.203.124.34/supresmart.php?id=Axn
+#EXTINF:-1 tvg-name="Paramount Network" group-title="电影频道",Paramount Network
+http://46.203.124.34/supresmart.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="Astrol Kplus" group-title="电影频道",Astrol Kplus
+http://46.203.124.34/supresmart.php?id=Kplus
+#EXTINF:-1 tvg-name="Rock Actions" group-title="电影频道",Rock Actions
+http://46.203.124.34/supresmart.php?id=Rockaction
+#EXTINF:-1 tvg-name="Rock Entertainment" group-title="电影频道",Rock Entertainment
+http://46.203.124.34/supresmart.php?id=Rockentertain
+#EXTINF:-1 tvg-name="Natgeo_HD" group-title="纪录频道",Natgeo_HD
+http://46.203.124.34/supresmart.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="NatGeo_Wild HD" group-title="纪录频道",NatGeo_Wild HD
+http://46.203.124.34/supresmart.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
+http://46.203.124.34/supresmart.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
+http://46.203.124.34/supresmart.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="CI" group-title="纪录频道",CI
+http://46.203.124.34/supresmart.php?id=ci_twn
+#EXTINF:-1 tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
+http://46.203.124.34/supresmart.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="Discovery HD" group-title="纪录频道",Discovery HD
+http://46.203.124.34/supresmart.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="亚洲美食" group-title="纪录频道",亚洲美食
+http://46.203.124.34/supresmart.php?id=afc_twn
+#EXTINF:-1 tvg-name="美食星球" group-title="纪录频道",美食星球
+http://46.203.124.34/supresmart.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" group-title="纪录频道",亚洲旅游 TLC Asia
+http://46.203.124.34/supresmart.php?id=tlc_twn
+#EXTINF:-1 tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
+http://46.203.124.34/supresmart.php?id=Natgeo
+#EXTINF:-1 tvg-name="Fashion TV" group-title="纪录频道",Fashion TV
+http://46.203.124.34/supresmart.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="History" group-title="纪录频道",History
+http://46.203.124.34/supresmart.php?id=History
+#EXTINF:-1 tvg-name="BBC Earth HD" group-title="纪录频道",BBC Earth HD
+http://46.203.124.34/supresmart.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" group-title="纪录频道",BBC Earth Lifestyle
+http://46.203.124.34/supresmart.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="MTV Live" group-title="纪录频道",MTV Live
+http://46.203.124.34/supresmart.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
+http://46.203.124.34/supresmart.php?id=Natgeowild
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" group-title="纪录频道",Animal Planet (Eng)
+http://46.203.124.34/supresmart.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="TLC" group-title="纪录频道",TLC
+http://46.203.124.34/supresmart.php?id=Tlc
+#EXTINF:-1 tvg-name="Foodnetwork Hd" group-title="纪录频道",Foodnetwork Hd
+http://46.203.124.34/supresmart.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="HGTV" group-title="纪录频道",HGTV
+http://46.203.124.34/supresmart.php?id=HGTV
+#EXTINF:-1 tvg-name="AFC 亚洲旅游台" group-title="纪录频道",AFC 亚洲旅游台
+http://46.203.124.34/supresmart.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="Skynews" group-title="新闻频道",Skynews
+http://46.203.124.34/supresmart.php?id=skynews_twn
+#EXTINF:-1 tvg-name="ABC News" group-title="新闻频道",ABC News
+http://46.203.124.34/supresmart.php?id=abcnews_glo
+#EXTINF:-1 tvg-name="东森财经新闻 ETTV Business" group-title="新闻频道",东森财经新闻 ETTV Business
+http://46.203.124.34/supresmart.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="CBS HD" group-title="新闻频道",CBS HD
+http://46.203.124.34/supresmart.php?id=cbshd_glo
+#EXTINF:-1 tvg-name="CBSN HD" group-title="新闻频道",CBSN HD
+http://46.203.124.34/supresmart.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="France 24" group-title="新闻频道",France 24
+http://46.203.124.34/supresmart.php?id=france24_twn
+#EXTINF:-1 tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
+http://46.203.124.34/supresmart.php?id=dw_twn
+#EXTINF:-1 tvg-name="NHK World" group-title="新闻频道",NHK World
+http://46.203.124.34/supresmart.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="Fox News" group-title="新闻频道",Fox News
+http://46.203.124.34/supresmart.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="CGTN" group-title="新闻频道",CGTN
+http://46.203.124.34/supresmart.php?id=CGTN
+#EXTINF:-1 tvg-name="CNN International" group-title="新闻频道",CNN International
+http://46.203.124.34/supresmart.php?id=Cnn
+#EXTINF:-1 tvg-name="CNN backup" group-title="新闻频道",CNN backup
+http://46.203.124.34/supresmart.php?id=cnn_twn
+#EXTINF:-1 tvg-name="CNBC" group-title="新闻频道",CNBC
+http://46.203.124.34/supresmart.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="CNA" group-title="新闻频道",CNA
+http://46.203.124.34/supresmart.php?id=cna
+#EXTINF:-1 tvg-name="BBC World News" group-title="新闻频道",BBC World News
+http://46.203.124.34/supresmart.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="BBC World News" group-title="新闻频道",BBC World News
+http://46.203.124.34/supresmart.php?id=Bbcnews
+#EXTINF:-1 tvg-name="Bloomberg News" group-title="新闻频道",Bloomberg News
+http://46.203.124.34/supresmart.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Al-Jazeera" group-title="新闻频道",Al-Jazeera
+http://46.203.124.34/supresmart.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="Baby TV Eng" group-title="儿童频道",Baby TV Eng
+http://46.203.124.34/supresmart.php?id=Babytv
+#EXTINF:-1 tvg-name="CBeebies" group-title="儿童频道",CBeebies
+http://46.203.124.34/supresmart.php?id=Cbeebies
+#EXTINF:-1 tvg-name="Kids TV" group-title="儿童频道",Kids TV
+http://46.203.124.34/supresmart.php?id=KidsTV
+#EXTINF:-1 tvg-name="Momo TV" group-title="儿童频道",Momo TV
+http://46.203.124.34/supresmart.php?id=momo1_twn
+#EXTINF:-1 tvg-name="Animax" group-title="儿童频道",Animax
+http://46.203.124.34/supresmart.php?id=Animax
+#EXTINF:-1 tvg-name="Baby TV" group-title="儿童频道",Baby TV
+http://46.203.124.34/supresmart.php?id=babytv_twn
+#EXTINF:-1 tvg-name="MiaoMi" group-title="儿童频道",MiaoMi
+http://46.203.124.34/supresmart.php?id=MiaoMi
+#EXTINF:-1 tvg-name="靖天卡通台" group-title="儿童频道",靖天卡通台
+http://46.203.124.34/supresmart.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="东森幼幼 Yoyo TV" group-title="儿童频道",东森幼幼 Yoyo TV
+http://46.203.124.34/supresmart.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="儿童频道",Cartoon Network
+http://46.203.124.34/supresmart.php?id=Cn
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="儿童频道",Nickelodeon
+http://46.203.124.34/supresmart.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" group-title="儿童频道",Nick Jr
+http://46.203.124.34/supresmart.php?id=Nickjr
+#EXTINF:-1 tvg-name="Channel 5" group-title="新加坡",Channel 5
+http://46.203.124.34/supresmart.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Channel 8" group-title="新加坡",Channel 8
+http://46.203.124.34/supresmart.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Suria" group-title="新加坡",Suria
+http://46.203.124.34/supresmart.php?id=Suria
+#EXTINF:-1 tvg-name="Channel U" group-title="新加坡",Channel U
+http://46.203.124.34/supresmart.php?id=ChannelU
+#EXTINF:-1 tvg-name="Vasantham" group-title="新加坡",Vasantham
+http://46.203.124.34/supresmart.php?id=Vasantham
+#EXTINF:-1 tvg-name="CNA" group-title="新加坡",CNA
+http://46.203.124.34/supresmart.php?id=cna
+#EXTINF:-1 tvg-name="CNA backup" group-title="新加坡",CNA backup
+http://46.203.124.34/supresmart.php?id=cna_twn
+#EXTINF:-1 tvg-name="MeWatch Ch 5" group-title="新加坡",MeWatch Ch 5
+http://46.203.124.34/supresmart.php?id=Mewatch_ch5
+#EXTINF:-1 tvg-name="MeWatch Ch 8" group-title="新加坡",MeWatch Ch 8
+http://46.203.124.34/supresmart.php?id=Mewatch_ch8
+#EXTINF:-1 tvg-name="MeWatch Ch U" group-title="新加坡",MeWatch Ch U
+http://46.203.124.34/supresmart.php?id=Mewatch_chU
+#EXTINF:-1 tvg-name="MeWatch Suria" group-title="新加坡",MeWatch Suria
+http://46.203.124.34/supresmart.php?id=Mewatch_Suria
+#EXTINF:-1 tvg-name="MeWatch Vasantham" group-title="新加坡",MeWatch Vasantham
+http://46.203.124.34/supresmart.php?id=Mewatch_Vasantham
+#EXTINF:-1 tvg-name="MeWatch CNA" group-title="新加坡",MeWatch CNA
+http://46.203.124.34/supresmart.php?id=Mewatch_cna
+#EXTINF:-1 tvg-name="TV1" group-title="马来西亚",TV1
+http://46.203.124.34/supresmart.php?id=TV1
+#EXTINF:-1 tvg-name="TV1 backup" group-title="马来西亚",TV1 backup
+http://46.203.124.34/supresmart.php?id=TV1_backup
+#EXTINF:-1 tvg-name="TV2" group-title="马来西亚",TV2
+http://46.203.124.34/supresmart.php?id=TV2
+#EXTINF:-1 tvg-name="TV3" group-title="马来西亚",TV3
+http://46.203.124.34/supresmart.php?id=TV3
+#EXTINF:-1 tvg-name="TV3 SD" group-title="马来西亚",TV3 SD
+http://46.203.124.34/supresmart.php?id=TV3_mega
+#EXTINF:-1 tvg-name="NTV7" group-title="马来西亚",NTV7
+http://46.203.124.34/supresmart.php?id=NTV7
+#EXTINF:-1 tvg-name="TV8" group-title="马来西亚",TV8
+http://46.203.124.34/supresmart.php?id=TV8
+#EXTINF:-1 tvg-name="TV9" group-title="马来西亚",TV9
+http://46.203.124.34/supresmart.php?id=TV9
+#EXTINF:-1 tvg-name="Ria" group-title="马来西亚",Ria
+http://46.203.124.34/supresmart.php?id=Ria
+#EXTINF:-1 tvg-name="Ria-3" group-title="马来西亚",Ria-3
+http://46.203.124.34/supresmart.php?id=Ria_backup
+#EXTINF:-1 tvg-name="Al-Hijrah" group-title="马来西亚",Al-Hijrah
+http://46.203.124.34/supresmart.php?id=Alhijrah
+#EXTINF:-1 tvg-name="Al-Hijrah backup" group-title="马来西亚",Al-Hijrah backup
+http://46.203.124.34/supresmart.php?id=Alhijrah_backup
+#EXTINF:-1 tvg-name="Awani" group-title="马来西亚",Awani
+http://46.203.124.34/supresmart.php?id=Awani
+#EXTINF:-1 tvg-name="Bernama" group-title="马来西亚",Bernama
+http://46.203.124.34/supresmart.php?id=Bernama
+#EXTINF:-1 tvg-name="Prima" group-title="马来西亚",Prima
+http://46.203.124.34/supresmart.php?id=Prima
+#EXTINF:-1 tvg-name="Prima backup" group-title="马来西亚",Prima backup
+http://46.203.124.34/supresmart.php?id=AAprima1
+#EXTINF:-1 tvg-name="Prima backup 2" group-title="马来西亚",Prima backup 2
+http://46.203.124.34/supresmart.php?id=AAprima
+#EXTINF:-1 tvg-name="Ceria" group-title="马来西亚",Ceria
+http://46.203.124.34/supresmart.php?id=Ceria
+#EXTINF:-1 tvg-name="Astro MTV" group-title="马来西亚",Astro MTV
+http://46.203.124.34/supresmart.php?id=AstroMTV
+#EXTINF:-1 tvg-name="Mecca Live HD" group-title="马来西亚",Mecca Live HD
+http://46.203.124.34/supresmart.php?id=quran_mido
+#EXTINF:-1 tvg-name="Madinah HD" group-title="马来西亚",Madinah HD
+http://46.203.124.34/supresmart.php?id=sunnah_mido
+#EXTINF:-1 tvg-name="Oasis" group-title="马来西亚",Oasis
+http://46.203.124.34/supresmart.php?id=Oasis
+#EXTINF:-1 tvg-name="HBO HD" group-title="马来西亚",HBO HD
+http://46.203.124.34/supresmart.php?id=Hbo
+#EXTINF:-1 tvg-name="HBO Signature" group-title="马来西亚",HBO Signature
+http://46.203.124.34/supresmart.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO Hits" group-title="马来西亚",HBO Hits
+http://46.203.124.34/supresmart.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="NatGeo Wild HD" group-title="马来西亚",NatGeo Wild HD
+http://46.203.124.34/supresmart.php?id=Natgeowild
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="马来西亚",Cartoon Network
+http://46.203.124.34/supresmart.php?id=Cn
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="马来西亚",Nickelodeon
+http://46.203.124.34/supresmart.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" group-title="马来西亚",Nick Jr
+http://46.203.124.34/supresmart.php?id=Nickjr
+#EXTINF:-1 tvg-name="Dreamworks" group-title="马来西亚",Dreamworks
+http://46.203.124.34/supresmart.php?id=Dreamworks
+#EXTINF:-1 tvg-name="Siar" group-title="马来西亚",Siar
+http://46.203.124.34/supresmart.php?id=Siar
+#EXTINF:-1 tvg-name="Citra" group-title="马来西亚",Citra
+http://46.203.124.34/supresmart.php?id=AAcitra
+#EXTINF:-1 tvg-name="Citra backup" group-title="马来西亚",Citra backup
+http://46.203.124.34/supresmart.php?id=AAcitra1
+#EXTINF:-1 tvg-name="Sensasi" group-title="马来西亚",Sensasi
+http://46.203.124.34/supresmart.php?id=Sensasi
+#EXTINF:-1 tvg-name="Aura" group-title="马来西亚",Aura
+http://46.203.124.34/supresmart.php?id=Aura
+#EXTINF:-1 tvg-name="Rania" group-title="马来西亚",Rania
+http://46.203.124.34/supresmart.php?id=Rania
+#EXTINF:-1 tvg-name="KBS World" group-title="马来西亚",KBS World
+http://46.203.124.34/supresmart.php?id=KBS
+#EXTINF:-1 tvg-name="Boo" group-title="马来西亚",Boo
+http://46.203.124.34/supresmart.php?id=Boo
+#EXTINF:-1 tvg-name="Awesome TV" group-title="马来西亚",Awesome TV
+http://46.203.124.34/supresmart.php?id=Dsangat
+#EXTINF:-1 tvg-name="Astro Sonypix" group-title="马来西亚",Astro Sonypix
+http://46.203.124.34/supresmart.php?id=Asonypix
+#EXTINF:-1 tvg-name="Sony HD" group-title="马来西亚",Sony HD
+http://46.203.124.34/supresmart.php?id=SetOne
+#EXTINF:-1 tvg-name="TvN" group-title="马来西亚",TvN
+http://46.203.124.34/supresmart.php?id=TVN
+#EXTINF:-1 tvg-name="AEC" group-title="马来西亚",AEC
+http://46.203.124.34/supresmart.php?id=AEC
+#EXTINF:-1 tvg-name="华丽台 HD （Wah Lai Toi）" group-title="马来西亚",华丽台 HD （Wah Lai Toi）
+http://46.203.124.34/supresmart.php?id=Wlt
+#EXTINF:-1 tvg-name="欢喜台 HD （Hua Hee Tai）" group-title="马来西亚",欢喜台 HD （Hua Hee Tai）
+http://46.203.124.34/supresmart.php?id=Huahee
+#EXTINF:-1 tvg-name="Astro QJ" group-title="马来西亚",Astro QJ
+http://46.203.124.34/supresmart.php?id=Quanjia
+#EXTINF:-1 tvg-name="TVB Jade" group-title="马来西亚",TVB Jade
+http://46.203.124.34/supresmart.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB Asia" group-title="马来西亚",TVB Asia
+http://46.203.124.34/supresmart.php?id=Tvbasia
+#EXTINF:-1 tvg-name="TVB Entertainment" group-title="马来西亚",TVB Entertainment
+http://46.203.124.34/supresmart.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="TVB Classic" group-title="马来西亚",TVB Classic
+http://46.203.124.34/supresmart.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="AOD" group-title="马来西亚",AOD
+http://46.203.124.34/supresmart.php?id=Aodhd
+#EXTINF:-1 tvg-name="One" group-title="马来西亚",One
+http://46.203.124.34/supresmart.php?id=One
+#EXTINF:-1 tvg-name="TVB 星河台 Xing He" group-title="马来西亚",TVB 星河台 Xing He
+http://46.203.124.34/supresmart.php?id=Xinhe
+#EXTINF:-1 tvg-name="爱奇艺 iQiyi" group-title="马来西亚",爱奇艺 iQiyi
+http://46.203.124.34/supresmart.php?id=Qiyi
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" group-title="马来西亚",Animal Planet (Eng)
+http://46.203.124.34/supresmart.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="tvN Movie" group-title="马来西亚",tvN Movie
+http://46.203.124.34/supresmart.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="CNN backup" group-title="马来西亚",CNN backup
+http://46.203.124.34/supresmart.php?id=cnn_twn
+#EXTINF:-1 tvg-name="Celestial Classic" group-title="马来西亚",Celestial Classic
+http://46.203.124.34/supresmart.php?id=Celestial2
+#EXTINF:-1 tvg-name="CNBC" group-title="马来西亚",CNBC
+http://46.203.124.34/supresmart.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="TLC" group-title="马来西亚",TLC
+http://46.203.124.34/supresmart.php?id=Tlc
+#EXTINF:-1 tvg-name="CNA" group-title="马来西亚",CNA
+http://46.203.124.34/supresmart.php?id=cna
+#EXTINF:-1 tvg-name="BBC World News" group-title="马来西亚",BBC World News
+http://46.203.124.34/supresmart.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="Foodnetwork Hd" group-title="马来西亚",Foodnetwork Hd
+http://46.203.124.34/supresmart.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="HGTV" group-title="马来西亚",HGTV
+http://46.203.124.34/supresmart.php?id=HGTV
+#EXTINF:-1 tvg-name="Goshop" group-title="马来西亚",Goshop
+http://46.203.124.34/supresmart.php?id=Goshop
+#EXTINF:-1 tvg-name="Celestial Movies HD" group-title="马来西亚",Celestial Movies HD
+http://46.203.124.34/supresmart.php?id=Celestial
+#EXTINF:-1 tvg-name="Axn HD" group-title="马来西亚",Axn HD
+http://46.203.124.34/supresmart.php?id=Axn
+#EXTINF:-1 tvg-name="Paramount Network" group-title="马来西亚",Paramount Network
+http://46.203.124.34/supresmart.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="Astrol Kplus" group-title="马来西亚",Astrol Kplus
+http://46.203.124.34/supresmart.php?id=Kplus
+#EXTINF:-1 tvg-name="AFC 亚洲旅游台" group-title="马来西亚",AFC 亚洲旅游台
+http://46.203.124.34/supresmart.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="Rock Actions" group-title="马来西亚",Rock Actions
+http://46.203.124.34/supresmart.php?id=Rockaction
+#EXTINF:-1 tvg-name="Bloomberg News" group-title="马来西亚",Bloomberg News
+http://46.203.124.34/supresmart.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Al-Jazeera" group-title="马来西亚",Al-Jazeera
+http://46.203.124.34/supresmart.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="Rock Entertainment" group-title="马来西亚",Rock Entertainment
+http://46.203.124.34/supresmart.php?id=Rockentertain
+#EXTINF:-1 tvg-name="RTM Sports HD" group-title="马来西亚",RTM Sports HD
+http://46.203.124.34/supresmart.php?id=Rtmsport
+#EXTINF:-1 tvg-name="Arena" group-title="马来西亚",Arena
+http://46.203.124.34/supresmart.php?id=Arena
+#EXTINF:-1 tvg-name="Arena 2" group-title="马来西亚",Arena 2
+http://46.203.124.34/supresmart.php?id=Arena2
+#EXTINF:-1 tvg-name="BolaArena 1" group-title="马来西亚",BolaArena 1
+http://46.203.124.34/supresmart.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="BolaArena 2" group-title="马来西亚",BolaArena 2
+http://46.203.124.34/supresmart.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="Astro LOL" group-title="马来西亚",Astro LOL
+http://46.203.124.34/supresmart.php?id=Astro_lol
+#EXTINF:-1 tvg-name="Astro Rusi" group-title="马来西亚",Astro Rusi
+http://46.203.124.34/supresmart.php?id=Rusi
+#EXTINF:-1 tvg-name="WION" group-title="马来西亚",WION
+http://46.203.124.34/supresmart.php?id=Wion
+#EXTINF:-1 tvg-name="RTM Asean" group-title="马来西亚",RTM Asean
+http://46.203.124.34/supresmart.php?id=Rtmasean
