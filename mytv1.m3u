@@ -4,22 +4,18 @@
 http://23.175.201.119:20000/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://23.175.201.119:20003/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVB J1
-http://23.175.201.119:20001/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://23.175.201.119:20001/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
-http://23.175.201.119:20006/live/mzt/stream.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://23.175.201.119:20003/live/wxxw/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
-http://23.175.201.119:20007/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
-http://23.175.201.119:20007/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://23.175.201.119:20002/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://23.175.201.119:20001/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台AK
+http://23.175.201.119:20008/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台AK4K
+http://23.175.201.119:20008/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
 http://23.175.201.119:20002/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+http://23.175.201.119:20004/jade2/jade.stream/chunklist_w10008.m3u8
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
 http://23.175.201.119:20002/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
@@ -32,6 +28,30 @@ http://23.175.201.119:20002/smt3.2.1.php?id=Xinhe
 http://23.175.201.119:20002/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
 http://23.175.201.119:20002/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://23.175.201.119:20006/live/mzt/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://23.175.201.119:20003/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVB J1
+http://23.175.201.119:20001/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
+http://23.175.201.119:20002/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" group-title="AKTV",美亞電影台(HK)
+http://23.175.201.119:20008/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
+http://23.175.201.119:20004/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
+http://23.175.201.119:20004/enew/enew.stream/chunklist_w100000003.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://23.175.201.119:20004/news/news.stream/chunklist_w10000005.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://23.175.201.119:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
+http://23.175.201.119:20007/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
+http://23.175.201.119:20007/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东民生" group-title="mytv",广东民生
+http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
 http://23.175.201.119:20002/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
@@ -106,8 +126,6 @@ http://23.175.201.119:20002/smt3.2.1.php?id=phoenixtv_hd
 http://23.175.201.119:20002/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
 http://23.175.201.119:20002/smt3.2.1.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
-http://23.175.201.119:20002/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
 http://23.175.201.119:20002/smt3.2.1.php?id=Celestial
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
@@ -124,21 +142,7 @@ http://23.175.201.119:20002/smt3.2.1.php?id=Quanjia
 http://23.175.201.119:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://23.175.201.119:20002/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
-http://23.175.201.119:20004/jade2/jade.stream/chunklist_w10008.m3u8
-#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
-http://23.175.201.119:20004/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
-http://23.175.201.119:20004/enew/enew.stream/chunklist_w100000003.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://23.175.201.119:20004/news/news.stream/chunklist_w10000005.m3u8
-#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://23.175.201.119:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台
-http://23.175.201.119:20008/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台4K
-http://23.175.201.119:20008/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="AKTV",鳳凰中文
 http://23.175.201.119:20008/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="AKTV",鳳凰資訊
@@ -155,8 +159,6 @@ http://23.175.201.119:20008/stream/aktv/tvbplus/AKTV.m3u8
 http://23.175.201.119:20008/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="POPC" group-title="AKTV",PopC
 http://23.175.201.119:20008/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亚电影" group-title="AKTV",美亞電影台(HK)
-http://23.175.201.119:20008/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧经典台" group-title="AKTV",千禧經典台(HK)
 http://23.175.201.119:20008/stream/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
@@ -635,4 +637,184 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="GAORA_3" tvg-name="GAORA (備用)" tvg-logo="" group-title="日本,体育",GAORA (備用)
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-name="中天新闻4Gtv" group-title="4G频道",中天新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-name="东森新闻4Gtv" group-title="4G频道",东森新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-name="tvbs新闻4Gtv" group-title="4G频道",tvbs新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv072/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻4Gtv" group-title="4G频道",寰宇新闻4Gtv
+http://rjc6.love:50007/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-name="非凡新闻4Gtv" group-title="4G频道",非凡新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 tvg-name="闽镜新闻4Gtv" group-title="4G频道",闽镜新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-name="民视新闻4Gtv" group-title="4G频道",民视新闻4Gtv
+http://rjc6.love:50007/litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-name="中视新闻4Gtv" group-title="4G频道",中视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv074/index.m3u8
+#EXTINF:-1 tvg-name="华视新闻4Gtv" group-title="4G频道",华视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv052/index.m3u8
+#EXTINF:-1 tvg-name="台视新闻4Gtv" group-title="4G频道",台视新闻4Gtv
+http://rjc6.love:50007/4gtv-4gtv051/index.m3u8
+#EXTINF:-1 tvg-name="民视闽南4Gtv" group-title="4G频道",民视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 tvg-name="民视闽南4Gtv" group-title="4G频道",民视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv155/index.m3u8
+#EXTINF:-1 tvg-name="中视闽南4Gtv" group-title="4G频道",中视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-name="华视闽南4Gtv" group-title="4G频道",华视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-name="台视闽南4Gtv" group-title="4G频道",台视闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv066/index.m3u8
+#EXTINF:-1 tvg-name="寰宇闽南4Gtv" group-title="4G频道",寰宇闽南4Gtv
+http://rjc6.love:50007/litv-longturn15/index.m3u8
+#EXTINF:-1 tvg-name="tvbs闽南4Gtv" group-title="4G频道",tvbs闽南4Gtv
+http://rjc6.love:50007/4gtv-4gtv073/index.m3u8
+#EXTINF:-1 tvg-name="民视台湾4Gtv" group-title="4G频道",民视台湾4Gtv
+http://rjc6.love:50007/4gtv-4gtv001/index.m3u8
+#EXTINF:-1 tvg-name="民视台湾4Gtv" group-title="4G频道",民视台湾4Gtv
+http://rjc6.love:50007/4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-name="民视第一4Gtv" group-title="4G频道",民视第一4Gtv
+http://rjc6.love:50007/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 tvg-name="民视旅游4Gtv" group-title="4G频道",民视旅游4Gtv
+http://rjc6.love:50007/litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-name="民视影剧4Gtv" group-title="4G频道",民视影剧4Gtv
+http://rjc6.love:50007/litv-ftv09/index.m3u8
+#EXTINF:-1 tvg-name="民视综艺4Gtv" group-title="4G频道",民视综艺4Gtv
+http://rjc6.love:50007/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-name="中视菁采4Gtv" group-title="4G频道",中视菁采4Gtv
+http://rjc6.love:50007/4gtv-4gtv064/index.m3u8
+#EXTINF:-1 tvg-name="中视经典4Gtv" group-title="4G频道",中视经典4Gtv
+http://rjc6.love:50007/4gtv-4gtv080/index.m3u8
+#EXTINF:-1 tvg-name="台视财经4Gtv" group-title="4G频道",台视财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 tvg-name="公视戏剧4Gtv" group-title="4G频道",公视戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv042/index.m3u8
+#EXTINF:-1 tvg-name="闽南戏剧4Gtv" group-title="4G频道",闽南戏剧4Gtv
+http://rjc6.love:50007/litv-longturn22/index.m3u8
+#EXTINF:-1 tvg-name="国际财经4Gtv" group-title="4G频道",国际财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv104/index.m3u8
+#EXTINF:-1 tvg-name="东森财经4Gtv" group-title="4G频道",东森财经4Gtv
+http://rjc6.love:50007/4gtv-4gtv153/index.m3u8
+#EXTINF:-1 tvg-name="tvbs精采4Gtv" group-title="4G频道",tvbs精采4Gtv
+http://rjc6.love:50007/4gtv-4gtv067/index.m3u8
+#EXTINF:-1 tvg-name="tvbs欢乐4Gtv" group-title="4G频道",tvbs欢乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv068/index.m3u8
+#EXTINF:-1 tvg-name="八大精彩4Gtv" group-title="4G频道",八大精彩4Gtv
+http://rjc6.love:50007/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-name="八大综艺4Gtv" group-title="4G频道",八大综艺4Gtv
+http://rjc6.love:50007/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 tvg-name="爱达娱乐4Gtv" group-title="4G频道",爱达娱乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-name="靖洋戏剧4Gtv" group-title="4G频道",靖洋戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv045/index.m3u8
+#EXTINF:-1 tvg-name="靖洋卡通4Gtv" group-title="4G频道",靖洋卡通4Gtv
+http://rjc6.love:50007/4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-name="靖天卡通4Gtv" group-title="4G频道",靖天卡通4Gtv
+http://rjc6.love:50007/4gtv-4gtv044/index.m3u8
+#EXTINF:-1 tvg-name="靖天综合4Gtv" group-title="4G频道",靖天综合4Gtv
+http://rjc6.love:50007/4gtv-4gtv046/index.m3u8
+#EXTINF:-1 tvg-name="靖天日本4Gtv" group-title="4G频道",靖天日本4Gtv
+http://rjc6.love:50007/4gtv-4gtv047/index.m3u8
+#EXTINF:-1 tvg-name="靖天欢乐4Gtv" group-title="4G频道",靖天欢乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv054/index.m3u8
+#EXTINF:-1 tvg-name="靖天映画4Gtv" group-title="4G频道",靖天映画4Gtv
+http://rjc6.love:50007/4gtv-4gtv055/index.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧4Gtv" group-title="4G频道",靖天戏剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv058/index.m3u8
+#EXTINF:-1 tvg-name="靖天电影4Gtv" group-title="4G频道",靖天电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv061/index.m3u8
+#EXTINF:-1 tvg-name="靖天育乐4Gtv" group-title="4G频道",靖天育乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv062/index.m3u8
+#EXTINF:-1 tvg-name="靖天国际4Gtv" group-title="4G频道",靖天国际4Gtv
+http://rjc6.love:50007/4gtv-4gtv063/index.m3u8
+#EXTINF:-1 tvg-name="靖天资讯4Gtv" group-title="4G频道",靖天资讯4Gtv
+http://rjc6.love:50007/4gtv-4gtv065/index.m3u8
+#EXTINF:-1 tvg-name="龙华卡通4Gtv" group-title="4G频道",龙华卡通4Gtv
+http://rjc6.love:50007/litv-longturn01/index.m3u8
+#EXTINF:-1 tvg-name="龙华日韩4Gtv" group-title="4G频道",龙华日韩4Gtv
+http://rjc6.love:50007/litv-longturn11/index.m3u8
+#EXTINF:-1 tvg-name="龙华偶像4Gtv" group-title="4G频道",龙华偶像4Gtv
+http://rjc6.love:50007/litv-longturn12/index.m3u8
+#EXTINF:-1 tvg-name="龙华电影4Gtv" group-title="4G频道",龙华电影4Gtv
+http://rjc6.love:50007/litv-longturn03/index.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧4Gtv" group-title="4G频道",龙华戏剧4Gtv
+http://rjc6.love:50007/litv-longturn18/index.m3u8
+#EXTINF:-1 tvg-name="龙华经典4Gtv" group-title="4G频道",龙华经典4Gtv
+http://rjc6.love:50007/litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-name="国会频壹4Gtv" group-title="4G频道",国会频壹4Gtv
+http://rjc6.love:50007/4gtv-4gtv084/index.m3u8
+#EXTINF:-1 tvg-name="国会频贰4Gtv" group-title="4G频道",国会频贰4Gtv
+http://rjc6.love:50007/4gtv-4gtv085/index.m3u8
+#EXTINF:-1 tvg-name="好消息壹4Gtv" group-title="4G频道",好消息壹4Gtv
+http://rjc6.love:50007/litv-ftv16/index.m3u8
+#EXTINF:-1 tvg-name="好消息贰4Gtv" group-title="4G频道",好消息贰4Gtv
+http://rjc6.love:50007/litv-ftv17/index.m3u8
+#EXTINF:-1 tvg-name="智林体育4Gtv" group-title="4G频道",智林体育4Gtv
+http://rjc6.love:50007/4gtv-4gtv101/index.m3u8
+#EXTINF:-1 tvg-name="博斯魅力4Gtv" group-title="4G频道",博斯魅力4Gtv
+http://rjc6.love:50007/litv-longturn04/index.m3u8
+#EXTINF:-1 tvg-name="博斯网球4Gtv" group-title="4G频道",博斯网球4Gtv
+http://rjc6.love:50007/litv-longturn09/index.m3u8
+#EXTINF:-1 tvg-name="博高球壹4Gtv" group-title="4G频道",博高球壹4Gtv
+http://rjc6.love:50007/litv-longturn05/index.m3u8
+#EXTINF:-1 tvg-name="博高球贰4Gtv" group-title="4G频道",博高球贰4Gtv
+http://rjc6.love:50007/litv-longturn06/index.m3u8
+#EXTINF:-1 tvg-name="博运动壹4Gtv" group-title="4G频道",博运动壹4Gtv
+http://rjc6.love:50007/litv-longturn07/index.m3u8
+#EXTINF:-1 tvg-name="博运动贰4Gtv" group-title="4G频道",博运动贰4Gtv
+http://rjc6.love:50007/litv-longturn08/index.m3u8
+#EXTINF:-1 tvg-name="博无限壹4Gtv" group-title="4G频道",博无限壹4Gtv
+http://rjc6.love:50007/litv-longturn10/index.m3u8
+#EXTINF:-1 tvg-name="博无限贰4Gtv" group-title="4G频道",博无限贰4Gtv
+http://rjc6.love:50007/litv-longturn13/index.m3u8
+#EXTINF:-1 tvg-name="阿里郎台4Gtv" group-title="4G频道",阿里郎台4Gtv
+http://rjc6.love:50007/4gtv-4gtv079/index.m3u8
+#EXTINF:-1 tvg-name="达文西台4Gtv" group-title="4G频道",达文西台4Gtv
+http://rjc6.love:50007/4gtv-4gtv018/index.m3u8
+#EXTINF:-1 tvg-name="猪哥亮厅4Gtv" group-title="4G频道",猪哥亮厅4Gtv
+http://rjc6.love:50007/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游4Gtv" group-title="4G频道",亚洲旅游4Gtv
+http://rjc6.love:50007/litv-longturn17/index.m3u8
+#EXTINF:-1 tvg-name="美国之音4Gtv" group-title="4G频道",美国之音4Gtv
+http://rjc6.love:50007/litv-ftv03/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻4Gtv" group-title="4G频道",半岛新闻4Gtv
+http://rjc6.love:50007/litv-ftv10/index.m3u8
+#EXTINF:-1 tvg-name="非凡商业4Gtv" group-title="4G频道",非凡商业4Gtv
+http://rjc6.love:50007/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 tvg-name="第壹商业4Gtv" group-title="4G频道",第壹商业4Gtv
+http://rjc6.love:50007/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 tvg-name="爱放动漫4Gtv" group-title="4G频道",爱放动漫4Gtv
+http://rjc6.love:50007/litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-name="古典音乐4Gtv" group-title="4G频道",古典音乐4Gtv
+http://rjc6.love:50007/4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-name="客家电视4Gtv" group-title="4G频道",客家电视4Gtv
+http://rjc6.love:50007/4gtv-4gtv043/index.m3u8
+#EXTINF:-1 tvg-name="华仁纪实4Gtv" group-title="4G频道",华仁纪实4Gtv
+http://rjc6.love:50007/4gtv-4gtv013/index.m3u8
+#EXTINF:-1 tvg-name="时尚运动4Gtv" group-title="4G频道",时尚运动4Gtv
+http://rjc6.love:50007/4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-name="生活英语4Gtv" group-title="4G频道",生活英语4Gtv
+http://rjc6.love:50007/litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="采昌影剧4Gtv" group-title="4G频道",采昌影剧4Gtv
+http://rjc6.love:50007/4gtv-4gtv049/index.m3u8
+#EXTINF:-1 tvg-name="数位电影4Gtv" group-title="4G频道",数位电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv011/index.m3u8
+#EXTINF:-1 tvg-name="Amc电影4Gtv" group-title="4G频道",Amc电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv017/index.m3u8
+#EXTINF:-1 tvg-name="CAT电影4Gtv" group-title="4G频道",CAT电影4Gtv
+http://rjc6.love:50007/4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-name="TRA体育4Gtv" group-title="4G频道",TRA体育4Gtv
+http://rjc6.love:50007/4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-name="SMArt台4Gtv" group-title="4G频道",SMArt台4Gtv
+http://rjc6.love:50007/litv-longturn19/index.m3u8
+#EXTINF:-1 tvg-name="GLO-Bet4Gtv" group-title="4G频道",GLO-Bet4Gtv
+http://rjc6.love:50007/4gtv-4gtv016/index.m3u8
+#EXTINF:-1 tvg-name="TRACEU4Gtv" group-title="4G频道",TRACEU4Gtv
+http://rjc6.love:50007/4gtv-4gtv082/index.m3u8
+#EXTINF:-1 tvg-name="MEZZOl4Gtv" group-title="4G频道",MEZZOl4Gtv
+http://rjc6.love:50007/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Ginx_TV4Gtv" group-title="4G频道",Ginx_TV4Gtv
+http://rjc6.love:50007/4gtv-4gtv053/index.m3u8
 
