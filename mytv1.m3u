@@ -4,6 +4,8 @@
 http://23.175.201.119:20000/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://23.175.201.119:20003/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K1
+http://212.192.12.200:5500/stream/mytvsuper/4k/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://23.175.201.119:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
