@@ -4,8 +4,6 @@
 http://23.175.201.119:20000/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://23.175.201.119:20003/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K1
-http://212.192.12.200:5500/stream/mytvsuper/4k/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://23.175.201.119:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
@@ -267,20 +265,14 @@ http://23.175.201.119:20008/stream/useradd1/ntvnews24/AKTV.m3u8
 http://23.175.201.119:20008/stream/useradd1/viutv/AKTV.m3u8
 
 
-#EXTINF:-1 tvg-id="tvbplus" tvg-name="TVB Plus" group-title="myTVSUPER",[mytvsuper] TVB Plus
-http://23.175.201.119:5500/stream/mytvsuper/tvbplus/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="mytvsuper_null-1" tvg-name="[mytvsuper] 無線新聞台", [mytvsuper] 無線新聞台
+hls://23.175.201.119:5500/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1 tvg-id="pearl" tvg-name="明珠台" group-title="myTVSUPER",[mytvsuper] 明珠台
-http://23.175.201.119:5500/stream/mytvsuper/null-3/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="mytvsuper_null" tvg-name="[mytvsuper] 翡翠台", [mytvsuper] 翡翠台
+hls://23.175.201.119:5500/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1 tvg-id="tvbnews" tvg-name="無線新聞台" group-title="myTVSUPER",[mytvsuper] 無線新聞台
-http://23.175.201.119:5500/stream/mytvsuper/null-2/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="jade" tvg-name="翡翠台" group-title="myTVSUPER",[mytvsuper] 翡翠台
-http://23.175.201.119:5500/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="jadehd" tvg-name="高清翡翠台" group-title="myTVSUPER",[mytvsuper] 高清翡翠台
-http://23.175.201.119:5500/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="mytvsuper_4k" tvg-name="[mytvsuper] 翡翠台 4K", [mytvsuper] 翡翠台 4K
+hls://23.175.201.119:5500/stream/mytvsuper/4k/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="mytv测试",CCTV1
 http://23.175.201.119:20010/cctv1/index.m3u8
