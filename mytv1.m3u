@@ -8,8 +8,6 @@ http://23.175.201.119:20003/live/fct4k/stream.m3u8
 http://23.175.201.119:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://23.175.201.119:20001/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台AK
-http://23.175.201.119:20008/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
 http://23.175.201.119:20002/smt3.2.1.php?id=Tvbjade
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
@@ -143,57 +141,81 @@ http://23.175.201.119:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://23.175.201.119:20002/smt3.2.1.php?id=TV8
 
-#EXTINF:-1 tvg-name="緯來體育" group-title="AKTV",緯來體育
-http://23.175.201.119:20008/stream/aktv5/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="中天新闻台" group-title="AKTV",中天新闻台
-http://23.175.201.119:20008/stream/yt/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS新聞" group-title="AKTV",TVBS新聞
-http://23.175.201.119:20008/stream/aktv3/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="AKTV",鳳凰中文
-http://23.175.201.119:20008/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="AKTV",鳳凰資訊
-http://23.175.201.119:20008/stream/aktv2/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" group-title="AKTV",鳳凰香港
-http://23.175.201.119:20008/stream/aktv2/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="AKTV",明珠台
-http://23.175.201.119:20008/stream/aktv2/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="AKTV",無線新聞台
-http://23.175.201.119:20008/stream/aktv2/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="POPC" group-title="AKTV",PopC
-http://23.175.201.119:20008/stream/aktv2/popc/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",tvN
-http://23.175.201.119:20008/stream/aktv2/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://23.175.201.119:20008/stream/aktv2/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Animax(HK)
-http://23.175.201.119:20008/stream/aktv2/animaxhk/AKTV.m3u8
-http://23.175.201.119:20008/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",AXN
-http://23.175.201.119:20008/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax(HK)" group-title="AKTV", Animax(HK)
+http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 
-EXTINF:-1,[mytvsuper] myTV SUPER FREE
+#EXTINF:-1 tvg-name="AXN" group-title="AKTV", AXN
+http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="PopC" group-title="AKTV", PopC
+http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="ROCK Action" group-title="AKTV", ROCK Action
+http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="tvN" group-title="AKTV", tvN
+http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="明珠台" group-title="AKTV", 明珠台
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="無線新聞台" group-title="AKTV", 無線新聞台
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="美亞電影台(HK)" group-title="AKTV", 美亞電影台(HK)
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV", 翡翠台
+http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="AKTV", 鳳凰中文
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="AKTV", 鳳凰資訊
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="AKTV", 鳳凰香港
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="TVBS新聞" group-title="AKTV", TVBS新聞
+http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="緯來體育" group-title="AKTV", 緯來體育
+http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="中天新闻台" group-title="AKTV", 中天新闻台
+http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="myTV SUPER FREE" group-title="mytvsuper",myTV SUPER FREE
 http://46.203.124.34:5500/stream/mytvsuper/mytvsuperfree/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] tvN
+#EXTINF:-1 tvg-name="tvN" group-title="mytvsuper",tvN
 http://46.203.124.34:5500/stream/mytvsuper/tvn/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 創世電視
+#EXTINF:-1 tvg-name="創世電視" group-title="mytvsuper",創世電視
 http://46.203.124.34:5500/stream/mytvsuper/null-5/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 明珠台
+#EXTINF:-1 tvg-name="明珠台" group-title="mytvsuper",明珠台
 http://46.203.124.34:5500/stream/mytvsuper/null-3/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 無線新聞台
+#EXTINF:-1 tvg-name="無線新聞台" group-title="mytvsuper",無線新聞台
 http://46.203.124.34:5500/stream/mytvsuper/null-2/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 無線衛星亞洲台
+#EXTINF:-1 tvg-name="無線衛星亞洲台" group-title="mytvsuper",無線衛星亞洲台
 http://46.203.124.34:5500/stream/mytvsuper/null-4/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 翡翠台
+#EXTINF:-1 tvg-name="美亞電影台" group-title="mytvsuper",美亞電影台
+http://46.203.124.34:5500/stream/mytvsuper/null-7/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytvsuper",翡翠台
 http://46.203.124.34:5500/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,[mytvsuper] 高清翡翠台
+#EXTINF:-1 tvg-name="高清翡翠台" group-title="mytvsuper",高清翡翠台
 http://46.203.124.34:5500/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+#EXTINF:-1 tvg-name="黃金翡翠台" group-title="mytvsuper",黃金翡翠台
+http://46.203.124.34:5500/stream/mytvsuper/null-6/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="mytv测试",CCTV1
 http://23.175.201.119:20010/cctv1/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="mytv测试",CCTV2
