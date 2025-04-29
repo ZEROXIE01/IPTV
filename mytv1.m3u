@@ -141,134 +141,24 @@ http://23.175.201.119:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://23.175.201.119:20002/smt3.2.1.php?id=TV8
 
-#EXTINF:-1 tvg-name="Animax(HK)" group-title="AKTV", Animax(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="AXN" group-title="AKTV", AXN
-http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="PopC" group-title="AKTV", PopC
-http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="ROCK Action" group-title="AKTV", ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="tvN" group-title="AKTV", tvN
-http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="明珠台" group-title="AKTV", 明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="無線新聞台" group-title="AKTV", 無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="美亞電影台(HK)" group-title="AKTV", 美亞電影台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV", 翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="鳳凰中文" group-title="AKTV", 鳳凰中文
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="鳳凰資訊" group-title="AKTV", 鳳凰資訊
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="鳳凰香港" group-title="AKTV", 鳳凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="TVBS新聞" group-title="AKTV", TVBS新聞
-http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="緯來體育" group-title="AKTV", 緯來體育
-http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="中天新闻台" group-title="AKTV", 中天新闻台
-http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 明珠台
+http://38.114.100.186:5500/stream/mytvsuper/null-4/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="mytvsuper_null" tvg-name="[mytvsuper] 無線新聞台" group-title="mytvsuper", [mytvsuper] 無線新聞台
+#EXTINF:-1 tvg-id="" tvg-name="無線新聞台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 無線新聞台
 http://38.114.100.186:5500/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1 tvg-id="mytvsuper_null-1" tvg-name="[mytvsuper] 美亞電影台" group-title="mytvsuper", [mytvsuper] 美亞電影台
+#EXTINF:-1 tvg-id="" tvg-name="美亞電影台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 美亞電影台
 http://38.114.100.186:5500/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1 tvg-id="mytvsuper_4k" tvg-name="[mytvsuper] 翡翠台 4K" group-title="mytvsuper", [mytvsuper] 翡翠台 4K
-http://38.114.100.186:5500/stream/mytvsuper/4k/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 翡翠台
+http://38.114.100.186:5500/stream/mytvsuper/null-2/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="mytv测试",CCTV1
-http://23.175.201.119:20010/cctv1/index.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="mytv测试",CCTV2
-http://23.175.201.119:20010/cctv2/index.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="mytv测试",CCTV3
-http://23.175.201.119:20010/cctv3/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="mytv测试",CCTV4
-http://23.175.201.119:20010/cctv4/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="mytv测试",CCTV5
-http://23.175.201.119:20010/cctv5/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="mytv测试",CCTV5+
-http://23.175.201.119:20010/cctv5plus/index.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="mytv测试",CCTV6
-http://23.175.201.119:20010/cctv6/index.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="mytv测试",CCTV7
-http://23.175.201.119:20010/cctv7/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="mytv测试",CCTV8
-http://23.175.201.119:20010/cctv8/index.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="mytv测试",CCTV9
-http://23.175.201.119:20010/cctv9/index.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="mytv测试",CCTV10
-http://23.175.201.119:20010/cctv10/index.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="mytv测试",CCTV11
-http://23.175.201.119:20010/cctv11/index.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="mytv测试",CCTV12
-http://23.175.201.119:20010/cctv12/index.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="mytv测试",CCTV13
-http://23.175.201.119:20010/cctv13/index.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="mytv测试",CCTV14
-http://23.175.201.119:20010/cctv14/index.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="mytv测试",CCTV15
-http://23.175.201.119:20010/cctv15/index.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="mytv测试",CCTV16
-http://23.175.201.119:20010/cctv16/index.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="mytv测试",CCTV17
-http://23.175.201.119:20010/cctv17/index.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="mytv测试",广东珠江
-http://23.175.201.119:20010/zhujiang/index.m3u8
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="mytv测试",大湾区卫视
-http://23.175.201.119:20010/dawanqu/index.m3u8
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="mytv测试",广东新闻
-http://23.175.201.119:20010/gdxinwen/index.m3u8
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="mytv测试",广东民生
-http://23.175.201.119:20010/gdminsheng/index.m3u8
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="mytv测试",广东影视
-http://23.175.201.119:20010/gdyingshi/index.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="mytv测试",广东体育
-http://23.175.201.119:20010/gdtiyu/index.m3u8
-#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="mytv测试",潮州综合
-http://23.175.201.119:20010/chaozhouzonghe/index.m3u8
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="mytv测试",汕头综合
-http://23.175.201.119:20010/shantouzonghe/index.m3u8
-#EXTINF:-1,tvg-id="广东导视" tvg-name="广东导视" tvg-logo="https://epg.v1.mk/logo/广东导视.png" group-title="mytv测试",广东导视
-http://23.175.201.119:20010/gddaoshi/index.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="mytv测试",广电翡翠台
-http://23.175.201.119:20010/gdfeicuitai/index.m3u8
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="mytv测试",新视觉
-http://23.175.201.119:20010/gdxinshijue/index.m3u8
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="mytv测试",魅力足球
-http://23.175.201.119:20010/gdmeilizuqiu/index.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="mytv测试",湖南卫视
-http://23.175.201.119:20010/hunanweishi/index.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="mytv测试",浙江卫视
-http://23.175.201.119:20010/zhejiangweishi/index.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="mytv测试",江苏卫视
-http://23.175.201.119:20010/jiangsuweishi/index.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="mytv测试",东方卫视
-http://23.175.201.119:20010/dongfangweishi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黃金翡翠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 黃金翡翠台
+http://38.114.100.186:5500/stream/mytvsuper/null-3/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+
 
 
 #EXTM3U
