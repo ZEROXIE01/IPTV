@@ -34,8 +34,6 @@ http://23.175.201.119:20003/live/wxxw/stream.m3u8
 http://23.175.201.119:20001/live/j1/stream.m3u8
 #EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
 http://23.175.201.119:20002/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美亚电影" group-title="AKTV",美亞電影台(HK)
-http://23.175.201.119:20008/stream/aktv2/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
 http://23.175.201.119:20004/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
@@ -143,22 +141,31 @@ http://23.175.201.119:20002/smt3.2.1.php?id=TV8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 明珠台
-http://38.114.100.186:5500/stream/mytvsuper/null-4/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="無線新聞台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 無線新聞台
-http://38.114.100.186:5500/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="mytvsuper",[mytvsuper] 翡翠台
+http://192.168.100.1:5550/stream/mytvsuper/null/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="美亞電影台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 美亞電影台
-http://38.114.100.186:5500/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="mytvsuper",[mytvsuper] 翡翠台 4K
+http://192.168.100.1:5550/stream/mytvsuper/4k/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 翡翠台
-http://38.114.100.186:5500/stream/mytvsuper/null-2/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="mytvsuper",[mytvsuper] TVB Plus
+http://192.168.100.1:5550/stream/mytvsuper/B/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="黃金翡翠台" tvg-logo="" group-title="mytvsuper",[mytvsuper] 黃金翡翠台
-http://38.114.100.186:5500/stream/mytvsuper/null-3/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="mytvsuper",[mytvsuper] 明珠台
+http://192.168.100.1:5550/stream/mytvsuper/null-2/master.m3u8
 
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="mytvsuper",[mytvsuper] 無線新聞台
+http://192.168.100.1:5550/stream/mytvsuper/null-1/master.m3u8
 
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="mytvsuper",[mytvsuper] SUPER Kids Channel
+http://192.168.100.1:5550/stream/mytvsuper/superkidschannel/master.m3u8
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="mytvsuper",[mytvsuper] 千禧經典台
+http://192.168.100.1:5550/stream/mytvsuper/null-3/master.m3u8
+
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="mytvsuper",[mytvsuper] 美亞電影台
+http://192.168.100.1:5550/stream/mytvsuper/null-5/master.m3u8
 
 
 #EXTM3U
@@ -465,180 +472,3 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="GAORA_3" tvg-name="GAORA (備用)" tvg-logo="" group-title="日本,体育",GAORA (備用)
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://upload.112114.xyz/logo/广东珠江A.png" group-title="电视直播",广东珠江
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/44
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://upload.112114.xyz/logo/广东新闻A.png" group-title="电视直播",广东新闻
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/45
-#EXTINF:-1 tvg-name="广东民生>" tvg-logo="https://upload.112114.xyz/logo/广东民生A.png" group-title="电视直播",广东民生
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/48
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://upload.112114.xyz/logo/广东体育A.png" group-title="电视直播",广东体育
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/47
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://upload.112114.xyz/logo/大湾区卫视A.png" group-title="电视直播",大湾区卫视
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/51
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://upload.112114.xyz/logo/大湾区卫视A.png" group-title="电视直播",大湾区卫视海外
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/46
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://upload.112114.xyz/logo/广东影视A.png" group-title="电视直播",广东影视
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/53
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://upload.112114.xyz/logo/广东4K超清A.png" group-title="电视直播",广东4K超清
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/16
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://upload.112114.xyz/logo/广东少儿A.png" group-title="电视直播",广东少儿
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/54
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://upload.112114.xyz/logo/南方购物A.png" group-title="电视直播",南方购物
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/42
-#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://upload.112114.xyz/logo/岭南戏曲A.png" group-title="电视直播",岭南戏曲
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/15
-#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://upload.112114.xyz/logo/广东移动A.png" group-title="电视直播",广东移动
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/74
-#EXTINF:-1 tvg-name="广东经典剧" tvg-logo="https://upload.112114.xyz/logo/广东经典剧A.png" group-title="电视直播",广东经典剧
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/100
-#EXTINF:-1 tvg-name="广东记录" tvg-logo="https://upload.112114.xyz/logo/广东纪录片A.png" group-title="电视直播",广东记录
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/43
-#EXTINF:-1 tvg-name="GRTN健康" tvg-logo="https://upload.112114.xyz/logo/广东健康A.png" group-title="电视直播",GRTN健康
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/99
-#EXTINF:-1 tvg-name="GRTN文化频" tvg-logo="https://upload.112114.xyz/logo/广东文化A.png" group-title="电视直播",GRTN文化
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/75
-#EXTINF:-1 tvg-name="GRTN生活频" tvg-logo="https://upload.112114.xyz/logo/广东生活A.png" group-title="电视直播",GRTN生活
-http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/102
-
-#EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="🎥",HBO Zone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
-https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
-
-
-#EXTINF:-1 tvg-id="pearl_twn" tvg-name="TVB明珠" group-title="TVB",TVB明珠
-http://php.jdshipin.com/smt.php?id=pearl_twn
-
-#EXTINF:-1 tvg-id="tvbc" tvg-name="TVB千禧经典" group-title="TVB",TVB千禧经典
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-
-#EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB千禧经典" group-title="TVB",TVB千禧经典
-http://php.jdshipin.com/smt.php?id=Tvbclassic
-
-#EXTINF:-1 tvg-id="xinghe" tvg-name="TVB星河" group-title="TVB",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-
-#EXTINF:-1 tvg-id="tvbylxw" tvg-name="TVB娱乐新闻" group-title="TVB",TVB娱乐新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-
-#EXTINF:-1 tvg-id="j1" tvg-name="TVBJ1美" group-title="TVB",TVBJ1美
-http://php.jdshipin.com/PLTV/iptv.php?id=j1
-
-#EXTINF:-1 tvg-id="tvbj1" tvg-name="TVBJ1美" group-title="TVB",TVBJ1美
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
-
-#EXTINF:-1 tvg-id="tvbj1" tvg-name="TVBJ1" group-title="TVB",TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-
-#EXTINF:-1 tvg-id="j2" tvg-name="TVBPlus" group-title="TVB",TVBPlus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-
-#EXTINF:-1 tvg-id="tvbp" tvg-name="TVBPlus" group-title="TVB",TVBPlus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-
-#EXTINF:-1 tvg-id="fct" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-
-#EXTINF:-1 tvg-id="fct2" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-
-#EXTINF:-1 tvg-id="fct3" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-
-#EXTINF:-1 tvg-id="fct4" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-
-#EXTINF:-1 tvg-id="huali2" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-#EXTINF:-1 tvg-id="jade_twn" tvg-name="翡翠台" group-title="翡翠台",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
-
-#EXTINF:-1 tvg-id="j1" tvg-name="翡翠台版TVBJ1" group-title="翡翠台",翡翠台版TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-
-#EXTINF:-1 tvg-id="fhhk" tvg-name="凤凰香港" group-title="凤凰",凤凰香港
-http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-
-#EXTINF:-1 tvg-id="fhhk" tvg-name="凤凰香港" group-title="凤凰",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-#EXTINF:-1 tvg-id="fhhk2" tvg-name="凤凰香港" group-title="凤凰",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-
-#EXTINF:-1 tvg-id="fhzw" tvg-name="凤凰中文" group-title="凤凰",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
-#EXTINF:-1 tvg-id="fhzw2" tvg-name="凤凰中文" group-title="凤凰",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-
-#EXTINF:-1 tvg-id="fhzx" tvg-name="凤凰资讯" group-title="凤凰",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-
-#EXTINF:-1 tvg-id="fhzx2" tvg-name="凤凰资讯" group-title="凤凰",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-
-#EXTINF:-1 tvg-id="huali" tvg-name="华丽翡翠台" group-title="翡翠台",华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-
-#EXTINF:-1 tvg-id="meiya" tvg-name="美亚电影台" group-title="电影",美亚电影台
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-
-#EXTINF:-1 tvg-id="Celestial" tvg-name="天映" group-title="电影",天映
-http://php.jdshipin.com/smt.php?id=Celestial
-
-#EXTINF:-1 tvg-id="Celestial2" tvg-name="天映经典" group-title="电影",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
-
-#EXTINF:-1 tvg-id="fct" tvg-name="无线翡翠" group-title="翡翠台",无线翡翠
-http://php.jdshipin.com/PLTV/iptv.php?id=fct
-
-#EXTINF:-1 tvg-id="fct2" tvg-name="无线翡翠" group-title="翡翠台",无线翡翠
-http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-
-#EXTINF:-1 tvg-id="fct3" tvg-name="无线翡翠" group-title="翡翠台",无线翡翠
-http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-
-#EXTINF:-1 tvg-id="fct4" tvg-name="无线翡翠频4k" group-title="翡翠台",无线翡翠频4k
-http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-
-#EXTINF:-1 tvg-id="Tvbjade" tvg-name="无线华丽" group-title="翡翠台",无线华丽
-http://php.jdshipin.com/smt.php?id=Tvbjade
-
-#EXTINF:-1 tvg-id="huali" tvg-name="无线华丽国标" group-title="翡翠台",无线华丽国标
-http://php.jdshipin.com/PLTV/iptv.php?id=huali
-
-#EXTINF:-1 tvg-id="mzt" tvg-name="无线明珠" group-title="TVB",无线明珠
-http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-
-#EXTINF:-1 tvg-id="mzt2" tvg-name="无线明珠粤高" group-title="TVB",无线明珠粤高
-http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-
-#EXTINF:-1 tvg-id="tvbc" tvg-name="无线千禧" group-title="TVB",无线千禧
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-
-#EXTINF:-1 tvg-id="wxxwt" tvg-name="无线新闻" group-title="新闻",无线新闻
-http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-
-#EXTINF:-1 tvg-id="tvbxw" tvg-name="无线新闻" group-title="新闻",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
-#EXTINF:-1 tvg-id="wxxwt" tvg-name="无线新闻" group-title="新闻",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-
-#EXTINF:-1 tvg-id="wxxw" tvg-name="无线新闻台" group-title="新闻",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-
-#EXTINF:-1 tvg-id="inews_twn" tvg-name="无线新闻台" group-title="新闻",无线新闻台
-http://php.jdshipin.com/smt.php?id=inews_twn
-
-#EXTINF:-1 tvg-id="Xinhe" tvg-name="无线星河" group-title="TVB",无线星河
-http://php.jdshipin.com/smt.php?id=Xinhe
-
-#EXTINF:-1 tvg-id="tvbylxw" tvg-name="无线娱乐" group-title="娱乐",无线娱乐
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-
-#EXTINF:-1 tvg-id="Tvbentertainment" tvg-name="无线娱乐" group-title="娱乐",无线娱乐
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
