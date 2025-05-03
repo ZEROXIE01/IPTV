@@ -127,50 +127,21 @@ http://185.2.163.33:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戲劇電影", [mytvsuper] Animax
-http://185.2.163.33:5550/stream/mytvsuper/animax/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戲劇電影", [mytvsuper] myTV SUPER 18台
-http://185.2.163.33:5550/stream/mytvsuper/mytvsuper18/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="myTV-SUPER-FREE" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", [mytvsuper] myTV SUPER FREE
-http://185.2.163.33:5550/stream/mytvsuper/mytvsuperfree/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", [mytvsuper] SUPER Kids Channel
-http://185.2.163.33:5550/stream/mytvsuper/superkidschannel/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", [mytvsuper] TVB Plus
-http://185.2.163.33:5550/stream/mytvsuper/tvbplus/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戲劇電影", [mytvsuper] tvN
-http://185.2.163.33:5550/stream/mytvsuper/tvn/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", [mytvsuper] 千禧經典台
-http://185.2.163.33:5550/stream/mytvsuper/null-3/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", [mytvsuper] 天映經典頻道
-http://185.2.163.33:5550/stream/mytvsuper/null-6/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="新聞財經", [mytvsuper] 娛樂新聞台
-http://185.2.163.33:5550/stream/mytvsuper/null-4/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", [mytvsuper] 明珠台
-http://185.2.163.33:5550/stream/mytvsuper/null-1/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", [mytvsuper] 無線新聞台
-http://185.2.163.33:5550/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影", [mytvsuper] 美亞電影台
-http://185.2.163.33:5550/stream/mytvsuper/null-5/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", [mytvsuper] 翡翠台
-http://185.2.163.33:5550/stream/mytvsuper/null-7/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
-
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", [mytvsuper] 翡翠台 4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="mytvsuper", 翡翠台 4K
 http://185.2.163.33:5550/stream/mytvsuper/4k/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
 
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影", [mytvsuper] 黃金翡翠台
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="mytvsuper", 美亞電影台
+http://185.2.163.33:5550/stream/mytvsuper/null-5/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="mytvsuper", 無線新聞台
+http://185.2.163.33:5550/stream/mytvsuper/null/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="mytvsuper", SUPER Kids Channel
+http://185.2.163.33:5550/stream/mytvsuper/superkidschannel/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="mytvsuper", 黃金翡翠台
 http://185.2.163.33:5550/stream/mytvsuper/null-2/master.m3u8?u=zeroxie&p=39c73d6e4c4323a1d0b78fee7e62991f8f7d6c0576b54c90ea5b4b036d0e2754
+
 #EXTINF:-1 tvg-name="NOW新闻" group-title="测试",NOW新闻台
 http://185.2.163.33:20010/live/now/stream.m3u8
 #EXTINF:-1 group-title="测试",Discovery
@@ -183,5 +154,4 @@ http://185.2.163.33:20010/live/hlwdy/stream.m3u8
 http://185.2.163.33:20010/live/lxsd/stream.m3u8
 #EXTINF:-1 tvg-name="纬来电影台" group-title="测试",纬来电影
 http://185.2.163.33:20010/live/wldy/stream.m3u8
-#EXTINF:-1 group-title="测试",周星驰电影轮播
-http://185.2.163.33:20010/hw/live/zxx/stream.m3u8
+
