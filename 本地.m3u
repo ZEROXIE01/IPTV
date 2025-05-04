@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戲劇電影", [美国vps] Animax
+http://192.168.100.1:5550/stream/vps/animax/master.m3u8
+
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="探索自然", [美国vps] Global Trekker
+http://192.168.100.1:5550/stream/vps/globaltrekker/master.m3u8
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="戲劇電影", [美国vps] KIX
+http://192.168.100.1:5550/stream/vps/kix/master.m3u8
+
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="探索自然", [美国vps] Love Nature 4K
+http://192.168.100.1:5550/stream/vps/lovenature4k/master.m3u8
+
+#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="探索自然", [美国vps] Love Nature HD
+http://192.168.100.1:5550/stream/vps/lovenaturehd/master.m3u8
+
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戲劇電影", [美国vps] myTV SUPER 18台
+http://192.168.100.1:5550/stream/vps/mytvsuper18/master.m3u8
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", [美国vps] myTV SUPER FREE
+http://192.168.100.1:5550/stream/vps/mytvsuperfree/master.m3u8
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="少兒", [美国vps] Nick Jr
+http://192.168.100.1:5550/stream/vps/nickjr/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="少兒", [美国vps] Nickelodeon
+http://192.168.100.1:5550/stream/vps/nickelodeon/master.m3u8
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="戲劇電影", [美国vps] PopC
+http://192.168.100.1:5550/stream/vps/popc/master.m3u8
+
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", [美国vps] SUPER Kids Channel
+http://192.168.100.1:5550/stream/vps/superkidschannel/master.m3u8
+
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", [美国vps] TVB Plus
+http://192.168.100.1:5550/stream/vps/tvbplus/master.m3u8
+
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戲劇電影", [美国vps] tvN
+http://192.168.100.1:5550/stream/vps/tvn/master.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="少兒", [美国vps] ZooMoo
+http://192.168.100.1:5550/stream/vps/zoomoo/master.m3u8
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="其他", [美国vps] 創世電視
+http://192.168.100.1:5550/stream/vps/null-8/master.m3u8
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", [美国vps] 千禧經典台
+http://192.168.100.1:5550/stream/vps/null-4/master.m3u8
+
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", [美国vps] 天映經典頻道
+http://192.168.100.1:5550/stream/vps/null-7/master.m3u8
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="新聞財經", [美国vps] 娛樂新聞台
+http://192.168.100.1:5550/stream/vps/null-5/master.m3u8
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", [美国vps] 明珠台
+http://192.168.100.1:5550/stream/vps/null-2/master.m3u8
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", [美国vps] 無線新聞台
+http://192.168.100.1:5550/stream/vps/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影", [美国vps] 美亞電影台
+http://192.168.100.1:5550/stream/vps/null-6/master.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", [美国vps] 翡翠台
+http://192.168.100.1:5550/stream/vps/null/master.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", [美国vps] 翡翠台 4K
+http://192.168.100.1:5550/stream/vps/4k/master.m3u8
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影", [美国vps] 黃金翡翠台
+http://192.168.100.1:5550/stream/vps/null-3/master.m3u8
