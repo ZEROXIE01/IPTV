@@ -1,0 +1,98 @@
+#EXTM3U x-tvg-url="https://epg.27481716.xyz/epg.xml"
+
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+http://mytvsuper.27481716.xyz/mytvsuper/J
+
+#EXTINF:-1 tvg-id="JUHD" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+http://mytvsuper.27481716.xyz/mytvsuper/JUHD
+
+#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+http://mytvsuper.27481716.xyz/mytvsuper/B
+
+#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8d08d8d1a4fb650d6eeb121dad3d0b1:bd6cf1f54cc9ec5d1b6230572d3141fd
+http://mytvsuper.27481716.xyz/mytvsuper/C
+
+#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+http://mytvsuper.27481716.xyz/mytvsuper/P
+
+#EXTINF:-1 tvg-id="CWIN" tvg-name="無線財經 體育資訊台" tvg-logo="https://assets.livednow.com/logo/無線財經.png" group-title="新聞財經", 無線財經 體育資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f168ec166a463fbb5dfdf7ccde9fa5f5:06c48a43fa20ed4d5c2717193e5e5b45
+http://mytvsuper.27481716.xyz/mytvsuper/CWIN
+
+#EXTINF:-1 tvg-id="CMAM" tvg-name="TVB經典台" tvg-logo="https://assets.livednow.com/logo/TVB經典台.png" group-title="綜合", TVB經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9e55c2339b1277f98b882e64fce898:1b78cf10c373d86e801f2b063c6fa946
+http://mytvsuper.27481716.xyz/mytvsuper/CMAM
+
+#EXTINF:-1 tvg-id="CMEZ" tvg-name="無綫劇集台" tvg-logo="https://assets.livednow.com/logo/無綫劇集台.png" group-title="劇集", 無綫劇集台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51dbf5f04c0f379ea1a8d7f34ef209df:bf4de26ee5b77c9fd98fcd5404a47e52
+http://mytvsuper.27481716.xyz/mytvsuper/CMEZ
+
+#EXTINF:-1 tvg-id="KID" tvg-name="兒童台" tvg-logo="https://assets.livednow.com/logo/兒童台.png" group-title="兒童", 兒童台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd4530a1104a772b26b2a9f1b73f436:14d58b8b6dbf6dc45fef78820bcf89a7
+http://mytvsuper.27481716.xyz/mytvsuper/KID
+
+#EXTINF:-1 tvg-id="ZOO" tvg-name="動物星球台" tvg-logo="https://assets.livednow.com/logo/動物星球台.png" group-title="紀實", 動物星球台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0bcdb37f0e772859bb5e23f7c29718e:32db4b4e62f93604a8915a9dc763b72e
+http://mytvsuper.27481716.xyz/mytvsuper/ZOO
+
+#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="綜合", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fa1de04e64df2bfe3a3bd3f7fdb1527:a45195d13bb2893643c1b74671f6a1d6
+http://mytvsuper.27481716.xyz/mytvsuper/CAXN
+
+#EXTINF:-1 tvg-id="CANI" tvg-name="Animax 動漫台" tvg-logo="https://assets.livednow.com/logo/Animax.png" group-title="動漫", Animax 動漫台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abcb2dba46a2dd7169788e40b54fd46a:3a9620f0dc6141462ed22e05c850118c
+http://mytvsuper.27481716.xyz/mytvsuper/CANI
+
+#EXTINF:-1 tvg-id="CRE" tvg-name="TVB星河台" tvg-logo="https://assets.livednow.com/logo/星河台.png" group-title="劇集", TVB星河台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37d1bd23cc086cf7e8bcfd5fd7c0a15d:bc435d07b6cbfcf173e82ce2d6b2557d
+http://mytvsuper.27481716.xyz/mytvsuper/CRE
+
+#EXTINF:-1 tvg-id="ONC" tvg-name="TVB Anywhere 綜合台" tvg-logo="https://assets.livednow.com/logo/TVB-Anywhere.png" group-title="綜合", TVB Anywhere 綜合台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=381f5421c59ff0f1a3e15963e60f6e11:6b7cf0e8ffec3283a7f83ac52bc2956f
+http://mytvsuper.27481716.xyz/mytvsuper/ONC
+
+#EXTINF:-1 tvg-id="OL01" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="娛樂", 娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b693f7cd66db61ffed71be2dc1c68a0:ed56cf877af6dc07c61e3f996a981214
+http://mytvsuper.27481716.xyz/mytvsuper/OL01
+
+#EXTINF:-1 tvg-id="CTS1" tvg-name="TVBS歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS歡樂台.png" group-title="綜合", TVBS歡樂台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac82fc64c86c3c8e122001abe37e1e70:9809f69755bc65f20655b4c053493947
+http://mytvsuper.27481716.xyz/mytvsuper/CTS1
+
