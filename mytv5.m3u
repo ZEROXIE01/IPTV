@@ -97,7 +97,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/CTVE
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
 http://mytvsuper.27481716.xyz/mytvsuper/CCOC
 
-#EXTINF:-1 tvg-id="KID" tvg-name="SUPER Kids" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids.png" group-title="少兒", SUPER Kids 
+#EXTINF:-1 tvg-id="KID" tvg-name="SUPER-Kids-Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", SUPER-Kids-Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
