@@ -19,6 +19,36 @@ http://mytv.27481716.xyz/mytvsuper/JUHD
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
 http://mytv.27481716.xyz/mytvsuper/B
 
+#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 明珠剧集台(北美)
+https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠剧集台(北美)
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="翡翠综合台(北美)" tvg-name="翡翠综合台(北美)" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠综合台(北美)
+https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="東森電影 " tvg-name="東森電影 " tvg-logo="https://assets.livednow.com/logo/東森電影.png" group-title="綜合", 東森電影
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="緯來體育台 " tvg-name="緯來體育台 " tvg-logo=" https://assets.livednow.com/logo/緯來體育.png" group-title="綜合", 緯來體育台
+https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVB 星河" tvg-name="TVB 星河 " tvg-logo=" https://live.fanmingming.cn/tv/TVB星河.png" group-title="綜合", TVB 星河
+https://s1.m16tv.cfd/astro/tvb/AKTV.m3u8
+
+#EXTINF:-1 tvg-id=" 天映电影" tvg-name=" 天映电影 " tvg-logo=" https://live.fanmingming.cn/tv/天映經典頻道.png" group-title="綜合",  天映电影
+https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="民視第一台" tvg-name=" 民視第一台 " tvg-logo=" https://live.fanmingming.cn/tv/視第一台.png" group-title="綜合",  民視第一台
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞 " tvg-logo=" https://live.fanmingming.cn/tv/TVBS-新聞台.png" group-title="綜合",TVBS新聞
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台 " tvg-logo=" https://live.fanmingming.cn/tv/中天新聞台.png" group-title="綜合",中天新闻台
+https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -516,3 +546,5 @@ http://mytv.27481716.xyz/mytvsuper/SDOC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
 http://mytv.27481716.xyz/mytvsuper/SSPT
+
+
