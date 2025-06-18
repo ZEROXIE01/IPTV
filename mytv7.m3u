@@ -34,20 +34,18 @@ https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="緯來體育台 " tvg-name="緯來體育台 " tvg-logo=" https://assets.livednow.com/logo/緯來體育.png" group-title="綜合", 緯來體育台
 https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="TVB 星河" tvg-name="TVB 星河 " tvg-logo=" https://live.fanmingming.cn/tv/TVB星河.png" group-title="綜合", TVB 星河
-https://s1.m16tv.cfd/astro/tvb/AKTV.m3u8
-
-#EXTINF:-1 tvg-id=" 天映电影" tvg-name=" 天映电影 " tvg-logo=" https://live.fanmingming.cn/tv/天映經典頻道.png" group-title="綜合",  天映电影
-https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="民視第一台" tvg-name=" 民視第一台 " tvg-logo=" https://live.fanmingming.cn/tv/視第一台.png" group-title="綜合",  民視第一台
+#EXTINF:-1 tvg-id="民視第一台" tvg-name=" 民視第一台 " tvg-logo=" https://assets.livednow.com/logo/民視第一台.png" group-title="綜合",  民視第一台
 https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞 " tvg-logo=" https://live.fanmingming.cn/tv/TVBS-新聞台.png" group-title="綜合",TVBS新聞
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞 " tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="綜合",TVBS新聞
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台 " tvg-logo=" https://live.fanmingming.cn/tv/中天新聞台.png" group-title="綜合",中天新闻台
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台 " tvg-logo=" https://assets.livednow.com/logo/中天新聞台.png" group-title="綜合",中天新闻台
 https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+
+#EXTINF:-1 tvg-id=" VIUtv" tvg-name=" VIUtv " tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="綜合", VIUtv
+https://cdn5.163189.xyz/live/viu/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
