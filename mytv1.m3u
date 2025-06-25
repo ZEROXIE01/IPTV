@@ -1,31 +1,31 @@
-#EXTM3U x-tvg-url=httpsepg.27481716.xyzepg.xml catchup=append catchup-source=playseek=${start}-${end}
+#EXTM3U x-tvg-url="https://epg.27481716.xyz/epg.xml" catchup="append" catchup-source="?playseek=${start}-${end}"
 
-#EXTINF-1 tvg-id=J tvg-name=翡翠台 tvg-logo=httpsassets.livednow.comlogo翡翠台.png group-title=綜合 catchup=append catchup-source=playseek=${start}-${end}, 翡翠台
-#KODIPROPinputstream.adaptive.manifest_type=mpd
-#KODIPROPinputstream.adaptive.license_type=clearkey
-#KODIPROPinputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed2d2fd7b1661b1e28de38268872b48480
-httpmytvsuper.27481716.xyzmytvsuperJ
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合" catchup="append" catchup-source="?playseek=${start}-${end}", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+http://mytvsuper.27481716.xyz/mytvsuper/J
 
-#EXTINF-1 tvg-id=JUHD tvg-name=翡翠台 UHD tvg-logo=httpsassets.livednow.comlogo翡翠台UHD.png group-title=綜合 catchup=append catchup-source=playseek=${start}-${end}, 翡翠台 UHD
-#KODIPROPinputstream.adaptive.manifest_type=mpd
-#KODIPROPinputstream.adaptive.license_type=clearkey
-#KODIPROPinputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416faecb2bc869ca522c2ff82e5f166c20e1d
-httpmytvsuper.27481716.xyzmytvsuperJUHD
+#EXTINF:-1 tvg-id="JUHD" tvg-name="翡翠台 UHD" tvg-logo="https://assets.livednow.com/logo/翡翠台UHD.png" group-title="綜合" catchup="append" catchup-source="?playseek=${start}-${end}", 翡翠台 UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:ecb2bc869ca522c2ff82e5f166c20e1d
+http://mytvsuper.27481716.xyz/mytvsuper/JUHD
 
-#EXTINF-1 tvg-id=B tvg-name=明珠台 tvg-logo=httpsassets.livednow.comlogo明珠台.png group-title=綜合 catchup=append catchup-source=playseek=${start}-${end}, 明珠台
-#KODIPROPinputstream.adaptive.manifest_type=mpd
-#KODIPROPinputstream.adaptive.license_type=clearkey
-#KODIPROPinputstream.adaptive.license_key=b38d14c01d1687c6934fbaec5d441ed0f1a2c2dd06df307da8f8b7e66b9a7066
-httpmytvsuper.27481716.xyzmytvsuperB
+#EXTINF:-1 tvg-id="B" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="綜合" catchup="append" catchup-source="?playseek=${start}-${end}", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b38d14c01d1687c6934fbaec5d441ed0:f1a2c2dd06df307da8f8b7e66b9a7066
+http://mytvsuper.27481716.xyz/mytvsuper/B
 
-#EXTINF-1 tvg-id=C tvg-name=J2 tvg-logo=httpsassets.livednow.comlogoJ2.png group-title=綜合 catchup=append catchup-source=playseek=${start}-${end}, J2
-#KODIPROPinputstream.adaptive.manifest_type=mpd
-#KODIPROPinputstream.adaptive.license_type=clearkey
-#KODIPROPinputstream.adaptive.license_key=da4bcfd6767010b27d5ef20f0b7c4e112b16e2b7bdbcd0a2e1e40eb7483cc00f
-httpmytvsuper.27481716.xyzmytvsuperC
+#EXTINF:-1 tvg-id="C" tvg-name="J2" tvg-logo="https://assets.livednow.com/logo/J2.png" group-title="綜合" catchup="append" catchup-source="?playseek=${start}-${end}", J2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da4bcfd6767010b27d5ef20f0b7c4e11:2b16e2b7bdbcd0a2e1e40eb7483cc00f
+http://mytvsuper.27481716.xyz/mytvsuper/C
 
-#EXTINF-1 tvg-id=P tvg-name=無綫新聞台 tvg-logo=httpsassets.livednow.comlogo無綫新聞台.png group-title=新聞 catchup=append catchup-source=playseek=${start}-${end}, 無綫新聞台
-#KODIPROPinputstream.adaptive.manifest_type=mpd
-#KODIPROPinputstream.adaptive.license_type=clearkey
-#KODIPROPinputstream.adaptive.license_key=f8b2b67cb61a79b9c82b0f0c3aa0a9a23fbc4c77d58c8b7394e97f4c2e2366f0
-httpmytvsuper.27481716.xyzmytvsuperP
+#EXTINF:-1 tvg-id="P" tvg-name="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無綫新聞台.png" group-title="新聞" catchup="append" catchup-source="?playseek=${start}-${end}", 無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b2b67cb61a79b9c82b0f0c3aa0a9a2:3fbc4c77d58c8b7394e97f4c2e2366f0
+http://mytvsuper.27481716.xyz/mytvsuper/P
