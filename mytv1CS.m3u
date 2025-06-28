@@ -3,16 +3,16 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://itv.27481716.xyz/itvsuper/J
+https://itv.27481716.xyz/mysuper/J
 
 #EXTINF:-1 tvg-id="JUHD" tvg-name="JUHD" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合" catchup="append" catchup-source="?playseek={utc:yyyyMMddHHmmss}-{utcend:yyyyMMddHHmmss}",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://itv.27481716.xyz/itvsuper/JUHD
+https://itv.27481716.xyz/mysuper/JUHD
 
 #EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合" catchup="append" catchup-source="?playseek={utc:yyyyMMddHHmmss}-{utcend:yyyyMMddHHmmss}",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://itv.27481716.xyz/itvsuper/B
+https://itv.27481716.xyz/mysuper/B
