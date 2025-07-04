@@ -1,0 +1,686 @@
+#EXTM3U url-tvg="https://itvepg.27481716.xyz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+http://192.168.100.1:5000/mytvsuper/J
+
+#EXTINF:-1 tvg-id="JUHD" tvg-name="JUHD" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+http://192.168.100.1:5000/mytvsuper/JUHD
+
+#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+http://192.168.100.1:5000/mytvsuper/B
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="綜合", 深圳卫视4K
+https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8 
+
+#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+http://192.168.100.1:5000/mytvsuper/C
+
+#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+http://192.168.100.1:5000/mytvsuper/P
+
+#EXTINF:-1 tvg-id="CWIN" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+http://192.168.100.1:5000/mytvsuper/CWIN
+
+#EXTINF:-1 tvg-id="C18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戲劇電影", myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+http://192.168.100.1:5000/mytvsuper/C18
+
+#EXTINF:-1 tvg-id="C28" tvg-name="28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="體育", 28 AI 智慧賽馬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+http://192.168.100.1:5000/mytvsuper/C28
+
+#EXTINF:-1 tvg-id="TVG" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影", 黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+http://192.168.100.1:5000/mytvsuper/TVG
+
+#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", 千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+http://192.168.100.1:5000/mytvsuper/CTVC
+
+#EXTINF:-1 tvg-id="CDR3" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="戲劇電影", 華語劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+http://192.168.100.1:5000/mytvsuper/CDR3
+
+#EXTINF:-1 tvg-id="CCLM" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="戲劇電影", 粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+http://192.168.100.1:5000/mytvsuper/CCLM
+
+#EXTINF:-1 tvg-id="CTVS" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="戲劇電影", 亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+http://192.168.100.1:5000/mytvsuper/CTVS
+
+#EXTINF:-1 tvg-id="TVO" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="戲劇電影", 黃金華劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+http://192.168.100.1:5000/mytvsuper/TVO
+
+#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="新聞財經", 娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+http://192.168.100.1:5000/mytvsuper/CTVE
+
+#EXTINF:-1 tvg-id="CCOC" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="戲劇電影", 戲曲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
+http://192.168.100.1:5000/mytvsuper/CCOC
+
+#EXTINF:-1 tvg-id="KID" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+http://192.168.100.1:5000/mytvsuper/KID
+
+#EXTINF:-1 tvg-id="ZOO" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="少兒", ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+http://192.168.100.1:5000/mytvsuper/ZOO
+
+#EXTINF:-1 tvg-id="CNIKO" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="少兒", Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+http://192.168.100.1:5000/mytvsuper/CNIKO
+
+#EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="少兒", Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+http://192.168.100.1:5000/mytvsuper/CNIJR
+
+#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影", 美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+http://192.168.100.1:5000/mytvsuper/CMAM
+
+#EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="戲劇電影", Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+http://192.168.100.1:5000/mytvsuper/CTHR
+
+#EXTINF:-1 tvg-id="CCCM" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", 天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+http://192.168.100.1:5000/mytvsuper/CCCM
+
+#EXTINF:-1 tvg-id="CMC" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="戲劇電影", 中國電影頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
+http://192.168.100.1:5000/mytvsuper/CMC
+
+#EXTINF:-1 tvg-id="CRTX" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="戲劇電影", ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+http://192.168.100.1:5000/mytvsuper/CRTX
+
+#EXTINF:-1 tvg-id="CKIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="戲劇電影", KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+http://192.168.100.1:5000/mytvsuper/CKIX
+
+#EXTINF:-1 tvg-id="LNH" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="探索自然", Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+http://192.168.100.1:5000/mytvsuper/LNH
+
+#EXTINF:-1 tvg-id="LN4" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="探索自然", Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+http://192.168.100.1:5000/mytvsuper/LN4
+
+#EXTINF:-1 tvg-id="SMS" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="探索自然", Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+http://192.168.100.1:5000/mytvsuper/SMS
+
+#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="戲劇電影", ROCK 綜藝娛樂
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+http://192.168.100.1:5000/mytvsuper/CRTE
+
+#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="其他", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+http://192.168.100.1:5000/mytvsuper/CAXN
+
+#EXTINF:-1 tvg-id="CANI" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戲劇電影", Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+http://192.168.100.1:5000/mytvsuper/CANI
+
+#EXTINF:-1 tvg-id="CJTV" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戲劇電影", tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+http://192.168.100.1:5000/mytvsuper/CJTV
+
+#EXTINF:-1 tvg-id="CTS1" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="新聞財經", 無線衛星亞洲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+http://192.168.100.1:5000/mytvsuper/CTS1
+
+#EXTINF:-1 tvg-id="CRE" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="其他", 創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+http://192.168.100.1:5000/mytvsuper/CRE
+
+#EXTINF:-1 tvg-id="FBX" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="時尚", FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+http://192.168.100.1:5000/mytvsuper/FBX
+
+#EXTINF:-1 tvg-id="CMEZ" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝", Mezzo Live HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
+http://192.168.100.1:5000/mytvsuper/CMEZ
+
+#EXTINF:-1 tvg-id="DTV" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="綜合", 東方衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
+http://192.168.100.1:5000/mytvsuper/DTV
+
+#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="綜合", 鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+http://192.168.100.1:5000/mytvsuper/PCC
+
+#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="新聞財經", 鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+http://192.168.100.1:5000/mytvsuper/PIN
+
+#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="綜合", 鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+http://192.168.100.1:5000/mytvsuper/PHK
+
+#EXTINF:-1 tvg-id="POPC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="戲劇電影", PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+http://192.168.100.1:5000/mytvsuper/POPC
+
+#EXTINF:-1 tvg-id="CC1" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="綜合", 中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+http://192.168.100.1:5000/mytvsuper/CC1
+
+#EXTINF:-1 tvg-id="CGD" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="綜合", CGTN (中國環球電視網)記錄頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
+http://192.168.100.1:5000/mytvsuper/CGD
+
+#EXTINF:-1 tvg-id="CGE" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="綜合", CGTN (中國環球電視網)英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
+http://192.168.100.1:5000/mytvsuper/CGE
+
+#EXTINF:-1 tvg-id="CMN1" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="新聞財經", 神州新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
+http://192.168.100.1:5000/mytvsuper/CMN1
+
+#EXTINF:-1 tvg-id="CTSN" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="新聞財經", 無線衛星新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
+http://192.168.100.1:5000/mytvsuper/CTSN
+
+#EXTINF:-1 tvg-id="CCNA" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="新聞財經", 亞洲新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
+http://192.168.100.1:5000/mytvsuper/CCNA
+
+#EXTINF:-1 tvg-id="CJAZ" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="新聞財經", 半島電視台英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
+http://192.168.100.1:5000/mytvsuper/CJAZ
+
+#EXTINF:-1 tvg-id="CF24" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="新聞財經", France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
+http://192.168.100.1:5000/mytvsuper/CF24
+
+#EXTINF:-1 tvg-id="CDW1" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="新聞財經", DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
+http://192.168.100.1:5000/mytvsuper/CDW1
+
+#EXTINF:-1 tvg-id="CNHK" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="新聞財經", NHK World-Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
+http://192.168.100.1:5000/mytvsuper/CNHK
+
+#EXTINF:-1 tvg-id="CARI" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="綜合", Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
+http://192.168.100.1:5000/mytvsuper/CARI
+
+#EXTINF:-1 tvg-id="EVT3" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="體育", myTV SUPER 直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+http://192.168.100.1:5000/mytvsuper/EVT3
+
+#EXTINF:-1 tvg-id="EVT4" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="體育", myTV SUPER 直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+http://192.168.100.1:5000/mytvsuper/EVT4
+
+#EXTINF:-1 tvg-id="EVT5" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="體育", myTV SUPER 直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+http://192.168.100.1:5000/mytvsuper/EVT5
+
+#EXTINF:-1 tvg-id="EVT6" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="體育", myTV SUPER 直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+http://192.168.100.1:5000/mytvsuper/EVT6
+
+#EXTINF:-1 tvg-id="C3" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", 互動窗 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+http://192.168.100.1:5000/mytvsuper/C3
+
+#EXTINF:-1 tvg-id="C2" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", 互動窗 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+http://192.168.100.1:5000/mytvsuper/C2
+
+#EXTINF:-1 tvg-id="SVAR" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e0
+http://mytvsuper.27481716.xyz/mytvsuper/SVAR
+
+#EXTINF:-1 tvg-id="SEYT" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+http://192.168.100.1:5000/mytvsuper/SEYT
+
+#EXTINF:-1 tvg-id="SFOO" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+http://192.168.100.1:5000/mytvsuper/SFOO
+
+#EXTINF:-1 tvg-id="STRA" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+http://192.168.100.1:5000/mytvsuper/STRA
+
+#EXTINF:-1 tvg-id="SMUS" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+http://192.168.100.1:5000/mytvsuper/SMUS
+
+#EXTINF:-1 tvg-id="SGOL" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+http://192.168.100.1:5000/mytvsuper/SGOL
+
+#EXTINF:-1 tvg-id="SSIT" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+http://192.168.100.1:5000/mytvsuper/SSIT
+
+#EXTINF:-1 tvg-id="STVM" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+http://192.168.100.1:5000/mytvsuper/STVM
+
+#EXTINF:-1 tvg-id="SDOC" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+http://192.168.100.1:5000/mytvsuper/SDOC
+
+#EXTINF:-1 tvg-id="SSPT" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV Super点播台",SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+http://192.168.100.1:5000/mytvsuper/SSPT
+
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://46.203.125.177:20000/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://46.203.125.177:20003/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+http://46.203.125.177:20000/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
+http://46.203.125.177:20000/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://46.203.125.177:20000/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://46.203.125.177:20003/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://46.203.125.177:20000/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://46.203.125.177:20000/live/viu/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://46.203.125.177:20000/live/rthk31/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://46.203.125.177:20000/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" group-title="mytv",澳视澳门
+http://46.203.125.177:20000/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
+http://46.203.125.177:20000/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+http://46.203.125.177:20003/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+http://46.203.125.177:20003/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+http://46.203.125.177:20003/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
+http://46.203.125.177:20003/live/tvb1/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
+http://46.203.125.177:20003/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台" group-title="mytv",翡翠剧集台
+http://46.203.125.177:20003/live/tvbd/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://46.203.125.177:20003/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://46.203.125.177:20000/live/mzt/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://46.203.125.177:20003/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
+http://46.203.125.177:20007/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
+http://46.203.125.177:20007/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+http://46.203.125.177:20003/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="CH5" group-title="mytv",CH5
+http://46.203.125.177:20003/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="CH8" group-title="mytv",CH8
+http://46.203.125.177:20003/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="CHU" group-title="mytv",CHU
+http://46.203.125.177:20003/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="龙华电影" group-title="mytv",龙华电影
+http://46.203.125.177:20009/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龙华经典" group-title="mytv",龙华经典
+http://46.203.125.177:20009/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龙华卡通" group-title="mytv",龙华卡通
+http://46.203.125.177:20009/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" group-title="mytv",龙华偶像
+http://46.203.125.177:20009/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" group-title="mytv",龙华日韩
+http://46.203.125.177:20009/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" group-title="mytv",龙华戏剧
+http://46.203.125.177:20009/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
+http://46.203.125.177:20009/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://46.203.125.177:20002/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://46.203.125.177:20002/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+http://46.203.125.177:20002/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://46.203.125.177:20002/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://46.203.125.177:20002/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://46.203.125.177:20002/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://46.203.125.177:20002/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
+http://46.203.125.177:20002/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
+http://46.203.125.177:20002/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://46.203.125.177:20002/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
+http://46.203.125.177:20002/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://46.203.125.177:20002/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://46.203.125.177:20002/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+http://46.203.125.177:20002/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+http://46.203.125.177:20002/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+http://46.203.125.177:20002/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
+http://46.203.125.177:20002/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+http://46.203.125.177:20002/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://46.203.125.177:20002/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
+http://46.203.125.177:20002/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
+http://46.203.125.177:20002/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
+http://46.203.125.177:20002/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
+http://46.203.125.177:20002/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
+http://46.203.125.177:20002/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+http://46.203.125.177:20002/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+http://46.203.125.177:20004/live/hlfct/stream.m3u8
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
+http://46.203.125.177:20004/live/yzwx/stream.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
+http://46.203.125.177:20004/live/ylxw/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://46.203.125.177:20004/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://46.203.125.177:20004/live/tvbxh/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台测试
+http://46.203.125.177:20010/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台测试
+http://46.203.125.177:20010/o12/hls/mzt/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
+http://46.203.125.177:20010/o12/hls/fct4k/playlist.m3u8
+
+#EXTINF:-1 group-title="tvfix",翡翠台
+http://46.203.125.177:20005/live/jade/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVB Plus
+http://46.203.125.177:20005/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="tvfix",无线新闻台
+http://46.203.125.177:20005/live/inews/index.m3u8
+#EXTINF:-1 group-title="tvfix",明珠台
+http://46.203.125.177:20005/live/pearl/index.m3u8
+#EXTINF:-1 group-title="tvfix",娱乐新闻台
+http://46.203.125.177:20005/live/enews/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰中文
+http://46.203.125.177:20005/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+http://46.203.125.177:20005/live/fwzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+http://46.203.125.177:20005/live/fwxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",CCTV-1高清
+http://46.203.125.177:20005/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN纪录高清
+http://46.203.125.177:20005/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN高清
+http://46.203.125.177:20005/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",中国电影频道
+http://46.203.125.177:20005/live/cmc/index.m3u8
+#EXTINF:-1 group-title="tvfix",东方卫视国际
+http://46.203.125.177:20005/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",Animax
+http://46.203.125.177:20005/live/animax/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS
+http://46.203.125.177:20005/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS新闻台
+http://46.203.125.177:20005/live/tvbsnews/index.m3u8
+#EXTINF:-1 group-title="tvfix",亚洲新闻台
+http://46.203.125.177:20005/live/newsasia/index.m3u8
+
+#EXTINF:1 group-title="AKTV" tvg-name="axn",📺 AXN
+http://46.203.125.177:20008/aktv/axn/AKTV.m3u8
+#EXTINF:2 group-title="AKTV" tvg-name="channel5hd",📺 Channel 5 HD
+http://46.203.125.177:20008/aktv/channel5hd/AKTV.m3u8
+#EXTINF:3 group-title="AKTV" tvg-name="channel8hd",📺 Channel 8 HD
+http://46.203.125.177:20008/aktv/channel8hd/AKTV.m3u8
+#EXTINF:4 group-title="AKTV" tvg-name="channeluhd",📺 Channel U HD
+http://46.203.125.177:20008/aktv/channeluhd/AKTV.m3u8
+#EXTINF:5 group-title="AKTV" tvg-name="mytvsuper18",📺 myTV SUPER 18台
+http://46.203.125.177:20008/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:6 group-title="AKTV" tvg-name="popc",📺 PopC
+http://46.203.125.177:20008/aktv/popc/AKTV.m3u8
+#EXTINF:7 group-title="AKTV" tvg-name="rockaction",📺 ROCK Action
+http://46.203.125.177:20008/aktv/rockaction/AKTV.m3u8
+#EXTINF:8 group-title="AKTV" tvg-name="J2",📺 TVB Plus
+http://46.203.125.177:20008/aktv/tvbplus/AKTV.m3u8
+#EXTINF:9 group-title="AKTV" tvg-name="tvN",📺 tvN
+http://46.203.125.177:20008/aktv/tvn/AKTV.m3u8
+#EXTINF:10 group-title="AKTV" tvg-name="明珠剧集台",📺 明珠剧集台(北美)
+http://46.203.125.177:20008/aktv/CH-19/AKTV.m3u8
+#EXTINF:11 group-title="AKTV" tvg-name="明珠台",📺 明珠台
+http://46.203.125.177:20008/aktv/CH-2/AKTV.m3u8
+#EXTINF:12 group-title="AKTV" tvg-name="无线新闻",📺 無線新聞台
+http://46.203.125.177:20008/aktv/CH-1/AKTV.m3u8
+#EXTINF:13 group-title="AKTV" tvg-name="美亚电影",📺 美亞電影台(HK)
+http://46.203.125.177:20008/aktv/hk/AKTV.m3u8
+#EXTINF:14 group-title="AKTV" tvg-name="翡翠剧集台",📺 翡翠剧集台(北美)
+http://46.203.125.177:20008/aktv/CH-18/AKTV.m3u8
+#EXTINF:15 group-title="AKTV" tvg-name="翡翠台",📺 翡翠台
+http://46.203.125.177:20008/aktv/CH-0/AKTV.m3u8
+#EXTINF:16 group-title="AKTV" tvg-name="翡翠综合台",📺 翡翠综合台(北美)
+http://46.203.125.177:20008/aktv/CH-17/AKTV.m3u8
+#EXTINF:17 group-title="AKTV" tvg-name="凤凰中文",📺 鳳凰衛視中文台
+http://46.203.125.177:20008/aktv/CH-3/AKTV.m3u8
+#EXTINF:18 group-title="AKTV" tvg-name="凤凰资讯",📺 鳳凰衛視資訊台
+http://46.203.125.177:20008/aktv/CH-4/AKTV.m3u8
+#EXTINF:19 group-title="AKTV" tvg-name="凤凰香港",📺 鳳凰衛視香港台
+http://46.203.125.177:20008/aktv/CH-5/AKTV.m3u8
+#EXTINF:20 group-title="AKTV" tvg-name="Japan News 24H LIVE",📺 Japan News 24H LIVE
+http://46.203.125.177:20008/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:21 group-title="AKTV" tvg-name="日テレNEWS LIVE",📺 日テレNEWS LIVE
+http://46.203.125.177:20008/aktvjp/ntv/AKTV.m3u8
+#EXTINF:22 group-title="AKTV" tvg-name="HBO" provider="AKTV2" provider-logo="",📺 HBO
+http://46.203.125.177:20008/aktv2/hbo/AKTV.m3u8
+#EXTINF:23 group-title="AKTV" tvg-name="爱奇艺" provider="AKTV2" provider-logo="",📺 IQIYI
+http://46.203.125.177:20008/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:24 group-title="AKTV" tvg-name="VIUTV" provider="AKTV2" provider-logo="",📺 VIUTV
+http://46.203.125.177:20008/aktv2/viutv/AKTV.m3u8
+#EXTINF:25 group-title="AKTV" tvg-name="东森洋片" provider="AKTV2" provider-logo="",📺 東森洋片
+http://46.203.125.177:20008/aktv2/CH-2/AKTV.m3u8
+#EXTINF:26 group-title="AKTV" tvg-name="东森电影" provider="AKTV2" provider-logo="",📺 東森電影
+http://46.203.125.177:20008/aktv2/CH-1/AKTV.m3u8
+#EXTINF:27 group-title="AKTV" tvg-name="纬来体育" provider="AKTV2" provider-logo="",📺 緯來體育台
+http://46.203.125.177:20008/aktv2/CH-0/AKTV.m3u8
+#EXTINF:28 group-title="AKTV" tvg-name="CNA" provider="AKTV3" provider-logo="",📺 CNA
+http://46.203.125.177:20008/aktv3/cna/AKTV.m3u8
+#EXTINF:29 group-title="AKTV" tvg-name="aktv3/kpop" provider="AKTV3" provider-logo="",📺 KPOP+
+http://46.203.125.177:20008/aktv3/kpop/AKTV.m3u8
+#EXTINF:30 group-title="AKTV" tvg-name="朝鲜中央电视台" provider="AKTV3" provider-logo="",📺 朝鲜中央电视台
+http://46.203.125.177:20008/aktv3/CH-0/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="HOY77" group-title="直连测试",HOY TV
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+#EXTINF:-1 tvg-name="VIUTV" group-title="直连测试",ViuTV
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
+#EXTINF:-1 tvg-name="TVB1" group-title="直连测试",TVB1
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试",翡翠台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
+#EXTINF:-1 tvg-name="明珠台" group-title="直连测试",明珠台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
+
+#EXTINF:-1 tvg-name="凤凰中文" group-title="直连测试",鳳凰中文
+http://bx.757888.xyz/api.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="直连测试",鳳凰資訊
+http://bx.757888.xyz/api.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" group-title="直连测试",鳳凰香港
+http://bx.757888.xyz/api.php?id=fhhk
+#EXTINF:-1 tvg-name="中国电影频道" group-title="直连测试",中國電影頻道
+http://bx.757888.xyz/api.php?id=zgdy
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试",翡翠台
+http://bx.757888.xyz/api.php?id=fct
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="直连测试",TVB PLUS
+http://bx.757888.xyz/api.php?id=tvbp
+#EXTINF:-1 tvg-name="明珠台" group-title="直连测试",明珠台
+http://bx.757888.xyz/api.php?id=mz
+#EXTINF:-1 tvg-name="无线新闻" group-title="直连测试",無線新聞台
+http://bx.757888.xyz/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亚电影" group-title="直连测试",美亞電影台
+http://bx.757888.xyz/api.php?id=meiya
+#EXTINF:-1 tvg-name="天映经典" group-title="直连测试",天映經典頻道
+http://bx.757888.xyz/api.php?id=tyjd
+#EXTINF:-1 tvg-name="东森电影" group-title="直连测试",東森電影
+http://bx.757888.xyz/api.php?id=dsdy
+#EXTINF:-1 tvg-name="龙华电影" group-title="直连测试",龍華電影
+http://bx.757888.xyz/api.php?id=lhdy
