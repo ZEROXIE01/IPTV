@@ -4,6 +4,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key_url=https://key.27481716.xyz/key?ch=J
+#KODIPROP:inputstream.adaptive.license_key_header=Content-Type=application/json
+#KODIPROP:inputstream.adaptive.license_key_request_headers=Access-Control-Allow-Origin:*
 http://mytv.27481716.xyz/mytvsuper/J
 
 #EXTINF:-1 tvg-id="JUHD" tvg-name="JUHD" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台 4K
