@@ -564,39 +564,6 @@ http://player.27481716.xyz:20001/live/hyyy/stream.m3u8
 #EXTINF:-1 tvg-name="星光影院" group-title="mytv",星光影院
 http://player.27481716.xyz:20001/live/xgyy/stream.m3u8
 
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="tvfix",翡翠台
-http://player.27481716.xyz:20005/live/jade/index.m3u8
-#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="tvfix",TVB Plus
-http://player.27481716.xyz:20005/live/tvbplus/index.m3u8
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="tvfix",无线新闻台
-http://player.27481716.xyz:20005/live/inews/index.m3u8
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png"  group-title="tvfix",明珠台
-http://player.27481716.xyz:20005/live/pearl/index.m3u8
-#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="tvfix",娱乐新闻台
-http://player.27481716.xyz:20005/live/enews/index.m3u8
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png"  group-title="tvfix",凤凰中文
-http://player.27481716.xyz:20005/live/fhzw/index.m3u8
-#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png"  group-title="tvfix",凤凰资讯
-http://player.27481716.xyz:20005/live/fwzx/index.m3u8
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="tvfix",凤凰香港
-http://player.27481716.xyz:20005/live/fwxg/index.m3u8
-#EXTINF:-1 tvg-id="CC1" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="tvfix",CCTV-1高清
-http://player.27481716.xyz:20005/live/cctv1hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="tvfix",CGTN纪录高清
-http://player.27481716.xyz:20005/live/cgtndochd/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="tvfix",CGTN高清
-http://player.27481716.xyz:20005/live/cgtnhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/4K电影.png"  group-title="tvfix",中国电影频道
-http://player.27481716.xyz:20005/live/cmc/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="tvfix",东方卫视国际
-http://player.27481716.xyz:20005/live/dfhd/index.m3u8
-#EXTINF:-1 tvg-id="CANI" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="tvfix",Animax
-http://player.27481716.xyz:20005/live/animax/index.m3u8
-#EXTINF:-1 group-title="tvfix",TVBS
-http://player.27481716.xyz:20005/live/tvbs/index.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="CTSN" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png"  group-title="tvfix",TVBS新闻台
-http://player.27481716.xyz:20005/live/tvbsnews/index.m3u8
-
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="mytv测试",广东珠江
 http://player.27481716.xyz:20006/zhujiang/index.m3u8
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="mytv测试",大湾区卫视
@@ -645,27 +612,3 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.f
 #EXTINF:-1 tvg-name="广东体育" group-title="直连测试",广东体育
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
 
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png"  group-title="直连测试",鳳凰中文
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png"  group-title="直连测试",鳳凰資訊
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="直连测试",鳳凰香港
-http://bx.757888.xyz/api.php?id=fhhk
-#EXTINF:-1 tvg-name="中国电影频道" group-title="直连测试",中國電影頻道
-http://bx.757888.xyz/api.php?id=zgdy
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="直连测试",翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="直连测试",TVB PLUS
-http://bx.757888.xyz/api.php?id=tvbp
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png"  group-title="直连测试",明珠台
-http://bx.757888.xyz/api.php?id=mz
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="直连测试",無線新聞台
-http://bx.757888.xyz/api.php?id=wxxw
-#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png"  group-title="直连测试",美亞電影台
-http://bx.757888.xyz/api.php?id=meiya
-#EXTINF:-1 tvg-id="CCCM" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="直连测试",天映經典頻道
-http://bx.757888.xyz/api.php?id=tyjd
-#EXTINF:-1 tvg-name="东森电影" group-title="直连测试",東森電影
-http://bx.757888.xyz/api.php?id=dsdy
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="直连测试",龍華電影
-http://bx.757888.xyz/api.php?id=lhdy
