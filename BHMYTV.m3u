@@ -7,6 +7,9 @@ https://mytvsuper.27481716.xyz/mytvsuper/J
 https://mytv.27481716.xyz/mytvsuper/J
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/J
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/J
+http://player.27481716.xyz:20003/live/fct/stream.m3u8
+http://player.27481716.xyz:20010/hls/fct/playlist.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
 
 #EXTINF:-1 tvg-id="JUHD" tvg-name="JUHD" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="綜合", 翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -16,6 +19,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/JUHD
 https://mytv.27481716.xyz/mytvsuper/JUHD
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/JUHD
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/JUHD
+http://player.27481716.xyz:20003/live/fct4k/stream.m3u8
 
 #EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB+.png" group-title="綜合", TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -25,6 +29,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/B
 https://mytv.27481716.xyz/mytvsuper/B
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/B
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/B
+http://player.27481716.xyz:20000/live/tvbp/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/深圳卫视4K.png" group-title="綜合", 深圳卫视4K
@@ -38,6 +43,8 @@ https://mytvsuper.27481716.xyz/mytvsuper/C
 https://mytv.27481716.xyz/mytvsuper/C
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/C
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/C
+http://player.27481716.xyz:20003/live/wxxw/stream.m3u8
+http://player.27481716.xyz:20004/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/明珠台.png" group-title="新聞財經", 明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -47,6 +54,9 @@ https://mytvsuper.27481716.xyz/mytvsuper/P
 https://mytv.27481716.xyz/mytvsuper/P
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/P
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/P
+http://player.27481716.xyz:20000/live/mzt/stream.m3u8
+http://player.27481716.xyz:20010/o12/hls/mzt/playlist.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
 
 #EXTINF:-1 tvg-id="CWIN" tvg-name="myTV SUPER FREE" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/mytvsuper.png" group-title="戲劇電影", myTV SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -138,6 +148,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/CTVE
 https://mytv.27481716.xyz/mytvsuper/CTVE
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/CTVE
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/CTVE
+http://player.27481716.xyz:20004/live/ylxw/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="CCOC" tvg-name="戲曲台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/mytvsuper.png" group-title="戲劇電影", 戲曲台
@@ -357,6 +368,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/PCC
 https://mytv.27481716.xyz/mytvsuper/PCC
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/PCC
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/PCC
+http://player.27481716.xyz:20000/live/fhzw/stream.m3u8
 
 #EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Phoenix2.png" group-title="新聞財經", 鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -366,6 +378,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/PIN
 https://mytv.27481716.xyz/mytvsuper/PIN
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/PIN
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/PIN
+http://player.27481716.xyz:20003/live/fhzx/stream.m3u8
 
 #EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Phoenix3.png" group-title="綜合", 鳳凰衛視香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -375,6 +388,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/PHK
 https://mytv.27481716.xyz/mytvsuper/PHK
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/PHK
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/PHK
+http://player.27481716.xyz:20003/live/fhhk/stream.m3u8
 
 #EXTINF:-1 tvg-id="POPC" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/POPC.png" group-title="戲劇電影", PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -393,6 +407,7 @@ https://mytvsuper.27481716.xyz/mytvsuper/CC1
 https://mytv.27481716.xyz/mytvsuper/CC1
 https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/CC1
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/CC1
+http://player.27481716.xyz:20000/live/cctv1/stream.m3u8
 
 #EXTINF:-1 tvg-id="CGD" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/CGTNjilu.png" group-title="綜合", CGTN (中國環球電視網)記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -620,20 +635,13 @@ https://mytv-zone-3eolszd3unye-1371635015.eo-edgefunctions1.com/mytvsuper/SSPT
 http://zeroxie-zone-3eowudw7z8cy-1371635015.eo-edgefunctions1.com/mytvsuper/SSPT
 
 
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台4K
-http://player.27481716.xyz:20003/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Phoenix1.png" group-title="mytv",凤凰中文
-http://player.27481716.xyz:20000/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-id="CC1" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/CCTV1.png" group-title="mytv",CCTV1港澳版
-http://player.27481716.xyz:20000/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB+.png"group-title="mytv",TVB PLUS
-http://player.27481716.xyz:20000/live/tvbp/stream.m3u8
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/icon_hoy_logo.png" group-title="mytv",HOY TV
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/icon_hoy_logo.png" group-title="mytv",HOY 77
 http://player.27481716.xyz:20003/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/icon_hoy_logo.png" group-title="mytv",HOY TV
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
 http://player.27481716.xyz:20000/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/viutv.png" group-title="mytv",ViuTV
 http://player.27481716.xyz:20000/live/viu/stream.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
 #EXTINF:-1 tvg-name="NOW新闻"  tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/now1.png" group-title="mytv",NOW新闻台
 http://player.27481716.xyz:20000/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/RTHK31.png" group-title="mytv",RTHK31
@@ -646,26 +654,18 @@ http://player.27481716.xyz:20000/live/asam/stream.m3u8
 http://player.27481716.xyz:20000/live/as/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/重温经典.png" group-title="mytv",重温经典
 http://player.27481716.xyz:20003/live/cwjd/stream.m3u8
-#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Phoenix2.png"  group-title="mytv",凤凰资讯
-http://player.27481716.xyz:20003/live/fhzx/stream.m3u8
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Phoenix3.png" group-title="mytv",凤凰香港
-http://player.27481716.xyz:20003/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png"  group-title="mytv",TVB1
 http://player.27481716.xyz:20003/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",TVBJ1
 http://player.27481716.xyz:20003/live/j1/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠剧集台
 http://player.27481716.xyz:20003/live/tvbd/stream.m3u8
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台
-http://player.27481716.xyz:20003/live/fct/stream.m3u8
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/明珠台.png"  group-title="mytv",明珠台
-http://player.27481716.xyz:20000/live/mzt/stream.m3u8
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/无限新闻台.png" group-title="mytv",无线新闻台
-http://player.27481716.xyz:20003/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Guangdong9.png" group-title="mytv",广东珠江
 http://player.27481716.xyz:20007/live/gdzj/stream.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Guangdong5.png" group-title="mytv",广东体育
 http://player.27481716.xyz:20007/live/gdty/stream.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Logo_8TV_Malaysia.png" group-title="mytv",八度空间
 http://player.27481716.xyz:20003/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-name="CH5" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Mediacorp_Channel_5_2023.svg.png" group-title="mytv",CH5
@@ -688,62 +688,12 @@ http://player.27481716.xyz:20009/live/lhrh/stream.m3u8
 http://player.27481716.xyz:20009/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/LTV2.png" group-title="mytv",龙华洋片
 http://player.27481716.xyz:20009/live/lhyp/stream.m3u8
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=jade_twn
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=jade_xue
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",华丽翡翠台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/明珠台.png"  group-title="mytv",明珠台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=pearl_twn
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/无限新闻台.png" group-title="mytv",无线新闻台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB+.png" group-title="mytv",TVB PLUS
-http://player.27481716.xyz:20002/smt3.2.1.php?id=j2_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB星河.png"  group-title="mytv",TVB星河
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Xinhe
-#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB_Classic.png"" group-title="mytv",千禧经典台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB娱乐新闻台.png" group-title="mytv",TVB娱乐新闻台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Tvbentertainment
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/viutv.png" group-title="mytv",ViuTV
-http://player.27481716.xyz:20002/smt3.2.1.php?id=viu1_twn
-#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/viutv6.png" Viu group-title="mytv",ViuTVSix
-http://player.27481716.xyz:20002/smt3.2.1.php?id=viusix_twn
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/RTHK31.png" group-title="mytv",RTHK31
-http://player.27481716.xyz:20002/smt3.2.1.php?id=rhk31_twn
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/RTHK32.png" group-title="mytv",RTHK32
-http://player.27481716.xyz:20002/smt3.2.1.php?id=rhk32_twn
-#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/meiyady.png"  group-title="mytv",美亚电影台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="Astro AOD"  tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Astro_AOD_(2024).png" group-title="mytv",Astro AOD
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 tvg-name="Astro AEC"  tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Astro_AEC_(2024).png" group-title="mytv",Astro AEC
-http://player.27481716.xyz:20002/smt3.2.1.php?id=AEC
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/IQIYI_logo_(2022).svg.png" group-title="mytv",爱奇艺
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Qiyi
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Astro_QJ.png" group-title="mytv",Astro QJ
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Astro_Hua_Hee_Dai_(2024).png"  group-title="mytv",Astro欢喜台
-http://player.27481716.xyz:20002/smt3.2.1.php?id=Huahee
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Logo_8TV_Malaysia.png" group-title="mytv",八度空间
-http://player.27481716.xyz:20002/smt3.2.1.php?id=TV8
 #EXTINF:-1 tvg-name="华丽翡翠" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png"  group-title="mytv",华丽翡翠台
 http://player.27481716.xyz:20004/live/hlfct/stream.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB15.png" group-title="mytv",TVB亚洲武侠
 http://player.27481716.xyz:20004/live/yzwx/stream.m3u8
-#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB娱乐新闻台.png" group-title="mytv",TVB娱乐新闻台
-http://player.27481716.xyz:20004/live/ylxw/stream.m3u8
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/无限新闻台.png" group-title="mytv",无线新闻台
-http://player.27481716.xyz:20004/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/TVB星河.png" group-title="mytv",TVB星河
 http://player.27481716.xyz:20004/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台测试
-http://player.27481716.xyz:20010/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/明珠台.png"  group-title="mytv",明珠台测试
-http://player.27481716.xyz:20010/o12/hls/mzt/playlist.m3u8
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="mytv",翡翠台4K测试
-http://player.27481716.xyz:20010/o12/hls/fct4k/playlist.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/欢笑剧场4K.png" group-title="mytv",欢笑剧场4K
 http://player.27481716.xyz:20001/live/hxjc4k/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/CCTV2.png" group-title="mytv",CCTV2
@@ -756,19 +706,3 @@ http://player.27481716.xyz:20001/live/cctv9/stream.m3u8
 http://player.27481716.xyz:20001/live/hyyy/stream.m3u8
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/BESTV.png" group-title="mytv",星光影院
 http://player.27481716.xyz:20001/live/xgyy/stream.m3u8
-
-
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/icon_hoy_logo.png" group-title="直连测试",HOY TV
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/viutv.png" group-title="直连测试",ViuTV
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="直连测试",TVB1
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/翡翠台.png" group-title="直连测试",翡翠台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
-#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/明珠台.png"  group-title="直连测试",明珠台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Guangdong9.png" group-title="直连测试",广东珠江
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/ZEROXIE01/IPTV/main/Guangdong5.png" group-title="直连测试",广东体育
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
